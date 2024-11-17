@@ -1,0 +1,3082 @@
+[
+  {
+    "room": "Extraction",
+    "url": "https://www.curium.com.au/",
+    "company": "The Curium Experience",
+    "location": "Melbourne, Australia",
+    "latitude": "-37.8142454",
+    "longitude": "144.9631732"
+  },
+  {
+    "room": "Forest of Echoes",
+    "url": "https://www.nextlevelescape.com.au/rooms/forest-of-echoes/",
+    "company": "Next Level Escape (Australia)",
+    "location": "Sydney, Australia",
+    "latitude": "-33.8698439",
+    "longitude": "151.2082848"
+  },
+  {
+    "room": "The Game",
+    "url": "https://www.nextlevelescape.com.au/rooms/the-game/",
+    "company": "Next Level Escape (Australia)",
+    "location": "Sydney, Australia",
+    "latitude": "-33.8698439",
+    "longitude": "151.2082848"
+  },
+  {
+    "room": "La R\u00e9bellion",
+    "url": "https://www.cipherroom.com.au/ourgames",
+    "company": "The Cipher Room",
+    "location": "Sydney, Australia",
+    "latitude": "-33.8698439",
+    "longitude": "151.2082848"
+  },
+  {
+    "room": "Mr Pepper's Toy Shop",
+    "url": "https://www.cipherroom.com.au/ourgames",
+    "company": "The Cipher Room",
+    "location": "Sydney, Australia",
+    "latitude": "-33.8698439",
+    "longitude": "151.2082848"
+  },
+  {
+    "room": "Going Underground",
+    "url": "https://crimerunners.at/escape-the-room-wien-premium-going-underground/",
+    "company": "Crime Runners",
+    "location": "Vienna, Austria",
+    "latitude": "48.2083537",
+    "longitude": "16.3725042"
+  },
+  {
+    "room": "Dragon Cave 2.0[Drachenh\u00f6hle 2.0]",
+    "url": "https://www.openthedoor.at/en/",
+    "company": "Open The Door (Austria)",
+    "location": "Vienna, Austria",
+    "latitude": "48.2083537",
+    "longitude": "16.3725042"
+  },
+  {
+    "room": "The Treasure of Columbus[Der Schatz des Kolumbus]",
+    "url": "https://www.openthedoor.at/en/reservation/",
+    "company": "Open The Door (Austria)",
+    "location": "Vienna, Austria",
+    "latitude": "48.2083537",
+    "longitude": "16.3725042"
+  },
+  {
+    "room": "Demise of the Gricers",
+    "url": "https://entered.be/belevingen/demise-of-the-gricers/",
+    "company": "Entered",
+    "location": "As, Belgium",
+    "latitude": "51.000989700000005",
+    "longitude": "5.571999856759559"
+  },
+  {
+    "room": "Botanist Manor",
+    "url": "https://escaperush.com/botanist-manor-escape-game-brussels",
+    "company": "Escape Rush",
+    "location": "Brussels, Belgium",
+    "latitude": "50.8465573",
+    "longitude": "4.351697"
+  },
+  {
+    "room": "Tokyo Lab",
+    "url": "https://escaperush.com/tokyo-lab-escape-game-brussels-2?lang=en",
+    "company": "Escape Rush",
+    "location": "Brussels, Belgium",
+    "latitude": "50.8465573",
+    "longitude": "4.351697"
+  },
+  {
+    "room": "The Movies Experience (90 minute version)",
+    "url": "https://www.pushpushpush.be/rooms/what-kind-of-movies/the-movies-experience/",
+    "company": "The Push Mystery Rooms",
+    "location": "Dudzele, Belgium",
+    "latitude": "51.2747463",
+    "longitude": "3.2292277"
+  },
+  {
+    "room": "Han's Revenge[De wraak van Han]",
+    "url": "https://degoudenkooi.be/en/escape-experiences/",
+    "company": "De Gouden Kooi",
+    "location": "Mechelen, Belgium",
+    "latitude": "51.0281381",
+    "longitude": "4.4803453"
+  },
+  {
+    "room": "The Secret of Saint-Rumoldus[Het geheim van Sint-Rumoldus]",
+    "url": "https://degoudenkooi.be/en/escape-experiences/",
+    "company": "De Gouden Kooi",
+    "location": "Mechelen, Belgium",
+    "latitude": "51.0281381",
+    "longitude": "4.4803453"
+  },
+  {
+    "room": "Harbor Hotel",
+    "url": "https://thestart.be/escaperoom-harbor-hotel",
+    "company": "The Start EscapeRooms",
+    "location": "Ranst, Belgium",
+    "latitude": "51.1962373",
+    "longitude": "4.563813424474654"
+  },
+  {
+    "room": "Chernobyl",
+    "url": "https://thestart.be/Escaperoom-chernobyl",
+    "company": "TheStart EscapeRooms",
+    "location": "Ranst, Belgium",
+    "latitude": "51.1962373",
+    "longitude": "4.563813424474654"
+  },
+  {
+    "room": "Le Prince",
+    "url": "https://www.escaping.be/leprince/",
+    "company": "Escaping Belgium",
+    "location": "Retie, Belgium",
+    "latitude": "51.2675862",
+    "longitude": "5.0843883"
+  },
+  {
+    "room": "Hunting Season",
+    "url": "https://torchdale.be/en/hunting-season",
+    "company": "Torchdale (formerly Escaperoom Antwerp)",
+    "location": "Zoersel, Belgium",
+    "latitude": "51.2624772",
+    "longitude": "4.6921638923036735"
+  },
+  {
+    "room": "The Toy Factory",
+    "url": "https://torchdale.be/en/the-toy-factory",
+    "company": "Torchdale (formerly Escaperoom Antwerp)",
+    "location": "Zoersel, Belgium",
+    "latitude": "51.2624772",
+    "longitude": "4.6921638923036735"
+  },
+  {
+    "room": "Voodoo[\u0412\u0443\u0434\u0443]",
+    "url": "https://www.enigmania.bg/en_EN/voodoo",
+    "company": "Enigmania",
+    "location": "Sofia, Bulgaria",
+    "latitude": "42.6977028",
+    "longitude": "23.3217359"
+  },
+  {
+    "room": "\u0422he Mystery of the Secret Chamber[\u041c\u0438\u0441\u0442\u0435\u0440\u0438\u044f\u0442\u0430 \u043d\u0430 \u0422\u0430\u0439\u043d\u0430\u0442\u0430 \u0421\u0442\u0430\u044f]",
+    "url": "https://infinityescape.bg/en/the-secret-chamber",
+    "company": "Infinity Escape (Bulgaria)",
+    "location": "Sofia, Bulgaria",
+    "latitude": "42.6977028",
+    "longitude": "23.3217359"
+  },
+  {
+    "room": "The Secret Of Kryptos[\u0422\u0430\u0439\u043d\u0430\u0442\u0430 \u043d\u0430 \u041a\u0440\u0438\u043f\u0442\u043e\u0441]",
+    "url": "https://www.myst.bg/en",
+    "company": "Myst Entertainment",
+    "location": "Sofia, Bulgaria",
+    "latitude": "42.6977028",
+    "longitude": "23.3217359"
+  },
+  {
+    "room": "Atlantis[\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0434\u0430]",
+    "url": "http://www.teorema.bg/english/",
+    "company": "Teorema Escape Rooms",
+    "location": "Sofia, Bulgaria",
+    "latitude": "42.6977028",
+    "longitude": "23.3217359"
+  },
+  {
+    "room": "Below Zero",
+    "url": "https://cryptoescape.com/belowzero",
+    "company": "Crypto Escape Rooms",
+    "location": "Newmarket, ON, Canada",
+    "latitude": "44.056258",
+    "longitude": "-79.461708"
+  },
+  {
+    "room": "The Lost Shipwreck",
+    "url": "https://cryptoescape.com/lostshipwreck",
+    "company": "Crypto Escape Rooms",
+    "location": "Newmarket, ON, Canada",
+    "latitude": "44.056258",
+    "longitude": "-79.461708"
+  },
+  {
+    "room": "The Sorcerer's Secret",
+    "url": "https://cryptoescape.com/the-sorcerers-secret",
+    "company": "Crypto Escape Rooms",
+    "location": "Newmarket, ON, Canada",
+    "latitude": "44.056258",
+    "longitude": "-79.461708"
+  },
+  {
+    "room": "Missing[Disparue]",
+    "url": "https://enigma-tic.ca/en/missing/",
+    "company": "Enigma-Tic",
+    "location": "Blainville, QC, Canada",
+    "latitude": "45.67932",
+    "longitude": "-73.87619"
+  },
+  {
+    "room": "Project R.E.S.E.T.[Projet R.E.S.E.T.]",
+    "url": "https://immersia.ca/en/boisbriand-location/project-reset/",
+    "company": "Immersia Escape Games Canada",
+    "location": "Boisbriand, QC, Canada",
+    "latitude": "45.6130248",
+    "longitude": "-73.8386113"
+  },
+  {
+    "room": "Salutem Medicina Institute[L'Institut Salutem Medicina]",
+    "url": "https://immersia.ca/en/boisbriand-escape-games/scenarios/salutem/",
+    "company": "Immersia Escape Games Canada",
+    "location": "Boisbriand, QC, Canada",
+    "latitude": "45.6130248",
+    "longitude": "-73.8386113"
+  },
+  {
+    "room": "The Grand Immersia Hotel[Le Grand Immersia Hotel]",
+    "url": "https://immersia.ca/en/boisbriand-escape-games/scenarios/grand-immersia-hotel/",
+    "company": "Immersia Escape Games Canada",
+    "location": "Boisbriand, QC, Canada",
+    "latitude": "45.6130248",
+    "longitude": "-73.8386113"
+  },
+  {
+    "room": "Magnifico's Circus[Le Cirque Magnifico]",
+    "url": "https://www.escaparium.ca/laval-escape-game/magnifico-circus/",
+    "company": "Escaparium",
+    "location": "Laval, QC, Canada",
+    "latitude": "45.60558895",
+    "longitude": "-73.73456014508847"
+  },
+  {
+    "room": "Rain Corp.",
+    "url": "https://www.escaparium.ca/laval-escape-game/rain-corp/",
+    "company": "Escaparium",
+    "location": "Laval, QC, Canada",
+    "latitude": "45.60558895",
+    "longitude": "-73.73456014508847"
+  },
+  {
+    "room": "The Final Stop - V2 (75 minute version)[Le Dernier Arr\u00eat - V2 (Version de 75 minutes)]",
+    "url": "https://escaparium.ca/laval-escape-game/last-stop/",
+    "company": "Escaparium",
+    "location": "Laval, QC, Canada",
+    "latitude": "45.60558895",
+    "longitude": "-73.73456014508847"
+  },
+  {
+    "room": "The Forgotten Cathedral[La Cath\u00e9drale Oubli\u00e9e]",
+    "url": "https://www.escaparium.ca/laval-escape-game/forgotten-cathedral/",
+    "company": "Escaparium",
+    "location": "Laval, QC, Canada",
+    "latitude": "45.60558895",
+    "longitude": "-73.73456014508847"
+  },
+  {
+    "room": "The Lost Island of the Voodoo Queen[L'\u00cele perdue de la Reine Vaudou]",
+    "url": "https://www.escaparium.ca/laval-escape-game/voodoo-queen/",
+    "company": "Escaparium",
+    "location": "Laval, QC, Canada",
+    "latitude": "45.60558895",
+    "longitude": "-73.73456014508847"
+  },
+  {
+    "room": "Wardrobe for Sale[Armoire \u00e0 Vendre]",
+    "url": "https://www.escaparium.ca/laval-escape-game/wardrobe-for-sale/",
+    "company": "Escaparium",
+    "location": "Laval, QC, Canada",
+    "latitude": "45.60558895",
+    "longitude": "-73.73456014508847"
+  },
+  {
+    "room": "Screaming Metal[Ferrailles hurlantes]",
+    "url": "https://cabinetmysteriis.ca/",
+    "company": "Cabinet Mysteriis",
+    "location": "Qu\u00e9bec City, QC, Canada",
+    "latitude": "46.8137431",
+    "longitude": "-71.2084061"
+  },
+  {
+    "room": "The Dreamwalkers[Marcheurs de r\u00eaves]",
+    "url": "https://cabinetmysteriis.ca/",
+    "company": "Cabinet Mysteriis",
+    "location": "Qu\u00e9bec City, QC, Canada",
+    "latitude": "46.8137431",
+    "longitude": "-71.2084061"
+  },
+  {
+    "room": "Abstraction",
+    "url": "https://eliviascape.com/abstraction/",
+    "company": "Eliviascape",
+    "location": "Qu\u00e9bec City, QC, Canada",
+    "latitude": "46.8137431",
+    "longitude": "-71.2084061"
+  },
+  {
+    "room": "Judgment Day[Le Jour du Jugement]",
+    "url": "https://en.eliviascape.com/judgement-day/",
+    "company": "Eliviascape",
+    "location": "Qu\u00e9bec City, QC, Canada",
+    "latitude": "46.8137431",
+    "longitude": "-71.2084061"
+  },
+  {
+    "room": "Falderon Forest[La For\u00eat de Falderon]",
+    "url": "https://sauvequipeut.ca/sjsr/scenarios/?lang=en",
+    "company": "Sauve Qui Peut",
+    "location": "Saint-Jean-sur-Richelieu, QC, Canada",
+    "latitude": "45.3056879",
+    "longitude": "-73.2533401"
+  },
+  {
+    "room": "The Family[La Famille]",
+    "url": "https://www.escaparium.ca/shawinigan-escape-game/thefamily/",
+    "company": "Escaparium",
+    "location": "Shawinigan, QC, Canada",
+    "latitude": "46.5396581",
+    "longitude": "-72.7518637"
+  },
+  {
+    "room": "The Fairy Confectionary[La ConF\u00e9eserie]",
+    "url": "https://sosaventures.ca/en/our-adventures/our-aventures-in-saint-jerome/elementor-5363/",
+    "company": "SOS Aventures",
+    "location": "St-J\u00e9r\u00f4me, QC, Canada",
+    "latitude": "45.775426",
+    "longitude": "-74.013176"
+  },
+  {
+    "room": "Cinema \u00dasvit - The Mystery of the Lost Viewers[Kino \u00dasvit - z\u00e1hada ztracen\u00fdch div\u00e1k\u016f]",
+    "url": "http://www.lostexit.cz/unikova-hra-kino-usvit-zahada-ztracenych-divaku/",
+    "company": "Lost Exit",
+    "location": "Prague, Czech Republic",
+    "latitude": "50.0596288",
+    "longitude": "14.446459273258009"
+  },
+  {
+    "room": "Galactic Pioneers",
+    "url": "https://mindmaze.cz/en/missions/galactic-pioneers",
+    "company": "MindMaze",
+    "location": "Prague, Czech Republic",
+    "latitude": "50.0596288",
+    "longitude": "14.446459273258009"
+  },
+  {
+    "room": "Haunted House 2: Poltergeist",
+    "url": "http://thechamber.cz/en/haunted-house-2-poltergeist/",
+    "company": "The Chamber",
+    "location": "Prague, Czech Republic",
+    "latitude": "50.0596288",
+    "longitude": "14.446459273258009"
+  },
+  {
+    "room": "Zodiac Patres / Medieval Dungeon",
+    "url": "http://thechamber.cz/en/medieval-dungeon/",
+    "company": "The Chamber",
+    "location": "Prague, Czech Republic",
+    "latitude": "50.0596288",
+    "longitude": "14.446459273258009"
+  },
+  {
+    "room": "Mission #53[Mise #53]",
+    "url": "https://www.thepadlock.cz/about-3?lang=en",
+    "company": "The Padlock",
+    "location": "Prague, Czech Republic",
+    "latitude": "50.0596288",
+    "longitude": "14.446459273258009"
+  },
+  {
+    "room": "Safe: The Secret of Jack Daniel[Trezor: Tajemstv\u00ed Jacka Daniela]",
+    "url": "https://www.thepadlock.cz/about-3?lang=en",
+    "company": "The Padlock",
+    "location": "Prague, Czech Republic",
+    "latitude": "50.0596288",
+    "longitude": "14.446459273258009"
+  },
+  {
+    "room": "Downfall - Spy Mission Escape Room",
+    "url": "https://escaperoom.dk/en/downfall-escape-room/",
+    "company": "Escape Room by Midgaard Event",
+    "location": "Copenhagen, Denmark",
+    "latitude": "55.6867243",
+    "longitude": "12.5700724"
+  },
+  {
+    "room": "Celestia, the Forgotten City[Celestia, la cit\u00e9 oubli\u00e9e]",
+    "url": "https://www.latelierdesenigmes.fr/en/escape-room/celestia-escape/",
+    "company": "L'Atelier des \u00c9nigmes",
+    "location": "Annecy, France",
+    "latitude": "45.8992348",
+    "longitude": "6.1288847"
+  },
+  {
+    "room": "Alpha District",
+    "url": "https://escapetime-lemans.fr/salles/alpha-district",
+    "company": "Escape Time (France)",
+    "location": "Le Mans, France",
+    "latitude": "48.0073849",
+    "longitude": "0.1967849"
+  },
+  {
+    "room": "Archeon",
+    "url": "https://escapetime-lemans.fr/salles/archeon",
+    "company": "Escape Time (France)",
+    "location": "Le Mans, France",
+    "latitude": "48.0073849",
+    "longitude": "0.1967849"
+  },
+  {
+    "room": "Alien",
+    "url": "https://www.clapescape.com/en/escape-rooms/alien",
+    "company": "Clap Escape",
+    "location": "Lyon, France",
+    "latitude": "45.7578137",
+    "longitude": "4.8320114"
+  },
+  {
+    "room": "Dracula",
+    "url": "https://www.clapescape.com/escape-games/dracula",
+    "company": "Clap Escape",
+    "location": "Lyon, France",
+    "latitude": "45.7578137",
+    "longitude": "4.8320114"
+  },
+  {
+    "room": "The Theater of Illusions[Le Th\u00e9\u00e2tre des Illusions]",
+    "url": "https://www.cassetetedelaunay.fr/en",
+    "company": "Le Casse-T\u00eate Delaunay",
+    "location": "Lyon, France",
+    "latitude": "45.7578137",
+    "longitude": "4.8320114"
+  },
+  {
+    "room": "The Last Raiders of the Lost Temple (optimum version - 100 min)[Les derniers aventuriers du temple perdu (version optimum - 100 min)]",
+    "url": "https://missionexit.com/salle/les-derniers-aventuriers-du-temple-perdu/",
+    "company": "Mission Exit (France)",
+    "location": "Montpellier, France",
+    "latitude": "43.6112422",
+    "longitude": "3.8767337"
+  },
+  {
+    "room": "The Live Thriller",
+    "url": "https://borderliveconcepts.com/en/thelivethriller/",
+    "company": "Borderlive Concepts",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "Full Experience: The Magician of Paris & The Funhouse[Full Experience: Le Magicien de Paris & Le Palais de l\u2019horreur]",
+    "url": "https://deepinsideparis.fr/en/full-experience/",
+    "company": "Deep Inside",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Funhouse (played standalone, not as part of the Full Experience)[Le Palais de l'horreur (jou\u00e9 seul, pas dans le cadre de Full Experience)]",
+    "url": "https://deepinsideparis.fr/en/the-funhouse/",
+    "company": "Deep Inside",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Magician of Paris (played standalone, not as part of the Full Experience)[Le Magicien de Paris (jou\u00e9 seul, pas dans le cadre de Full Experience)]",
+    "url": "https://deepinsideparis.fr/en/le-magicien-de-paris/",
+    "company": "Deep Inside",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Crypt[La Crypte]",
+    "url": "https://ledonjon.fr/crypt",
+    "company": "Le Donjon",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "L.A. Confidential",
+    "url": "https://lockacademy.com/en/mystery/escape-game-paris-l-a-confidential/",
+    "company": "Lock Academy",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "Revolt at Lock Academy[R\u00e9volte \u00e0 la Lock]",
+    "url": "https://lockacademy.com/en/mystery/escape-room-paris-revolt-at-lock-academy/",
+    "company": "Lock Academy",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Examination[L\u2019Examen]",
+    "url": "https://lockacademy.com/en/mystery/escape-game-paris-the-examination/",
+    "company": "Lock Academy",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "Galactic Mission[Mission Galactique]",
+    "url": "https://majestic-escapegame.paris/mission-galactique/",
+    "company": "Majestic Escape Game",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Light Stone[La Pierre de lumi\u00e8re]",
+    "url": "https://www.masterio.fr/en/the-light-stone/",
+    "company": "Masterio",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Doomed Expedition[L'Exp\u00e9dition Maudite]",
+    "url": "https://www.one-hour.fr/expedition-maudite/",
+    "company": "One Hour (France)",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Slaughterhouse[L'Abattoir]",
+    "url": "https://www.one-hour.fr/abattoir",
+    "company": "One Hour (France)",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "Fairy Tale Regulations[R\u00e8glement de Contes]",
+    "url": "https://pandore-escape.com/en/fairytale-regulations",
+    "company": "Pandore & Associ\u00e9s",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Fantastic Warehouse[L\u2019Entrep\u00f4t Fantastique]",
+    "url": "https://pandore-escape.com/en/the-fantastic-warehouse",
+    "company": "Pandore & Associ\u00e9s",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Mystery of the Deveaux Family[L'Affaire du Manoir Deveaux]",
+    "url": "https://en.panikroom.fr/l-enquete",
+    "company": "Panik Room",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Druid's Bane[Le Fl\u00e9au du Druide]",
+    "url": "https://www.thequestfactory.paris/le-fleau-du-druide/",
+    "company": "Quest Factory",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "The Disappearance of the Zanetti Train[La disparition du train Zanetti]",
+    "url": "https://secretshunters.fr/en/escape-game-le-train-zanetti/",
+    "company": "Secrets Hunters",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "Secret Mission[Mission secr\u00e8te]",
+    "url": "https://www.thegame-france.com/en/the-missions/secret-mission.htm",
+    "company": "The Game (France)",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "Murder on the Orient Express[Le Crime de l'Orient-Express]",
+    "url": "https://www.theoneescape.com/missions-escape-game/orient-express",
+    "company": "The One Escape",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "Nautilus, the Aronnax Expedition[Nautilus, l\u2019Exp\u00e9dition Aronnax]",
+    "url": "https://unleashescape.com",
+    "company": "Unleash Escape",
+    "location": "Paris, France",
+    "latitude": "48.8588897",
+    "longitude": "2.3200410217200766"
+  },
+  {
+    "room": "Jungle Quest",
+    "url": "https://escape-dimension.fr/room/junglequest/",
+    "company": "Escape Dimension",
+    "location": "Perpignan, France",
+    "latitude": "42.6985304",
+    "longitude": "2.8953121"
+  },
+  {
+    "room": "Mystery on Lived Street[Myst\u00e8re \u00e0 Lived Street]",
+    "url": "https://escape-dimension.fr/room/enquete-a-lived-street/",
+    "company": "Escape Dimension",
+    "location": "Perpignan, France",
+    "latitude": "42.6985304",
+    "longitude": "2.8953121"
+  },
+  {
+    "room": "Metropolis 2099",
+    "url": "https://www.dream-labs.com/en/escape-rooms/metropolis-2099/",
+    "company": "Dream Labs Adventures",
+    "location": "Bad Steben, Germany",
+    "latitude": "50.3661332",
+    "longitude": "11.6437323"
+  },
+  {
+    "room": "The Tale of the Heartless Pirate[Die Legende vom herzlosen Piraten]",
+    "url": "https://www.dream-labs.com/en/escape-rooms/the-tale-of-the-heartless-pirate/",
+    "company": "Dream Labs Adventures",
+    "location": "Bad Steben, Germany",
+    "latitude": "50.3661332",
+    "longitude": "11.6437323"
+  },
+  {
+    "room": "Alice in Wonderland[Alice im Wunderland]",
+    "url": "https://cine-room.de/en/alice-in-wonderland/",
+    "company": "CineRoom Bamberg",
+    "location": "Bamberg, Germany",
+    "latitude": "49.8916044",
+    "longitude": "10.8868478"
+  },
+  {
+    "room": "Tomb Hunter",
+    "url": "https://finest-escape.de/en/bamberg/tomb-hunter/",
+    "company": "Finest Escape",
+    "location": "Bamberg, Germany",
+    "latitude": "49.8916044",
+    "longitude": "10.8868478"
+  },
+  {
+    "room": "Frankenstein",
+    "url": "https://www.miraculum-escape.de/en/dr-frankenstein/",
+    "company": "Miraculum (The Room Labs)",
+    "location": "Berlin, Germany",
+    "latitude": "52.5170365",
+    "longitude": "13.3888599"
+  },
+  {
+    "room": "The Golden Phoenix",
+    "url": "https://www.miraculum-escape.de/en/golden-phoenix/",
+    "company": "Miraculum (The Room Labs)",
+    "location": "Berlin, Germany",
+    "latitude": "52.5170365",
+    "longitude": "13.3888599"
+  },
+  {
+    "room": "Beast of Berlin",
+    "url": "https://the-room-berlin.com/en-beast-of-berlin/",
+    "company": "The Room",
+    "location": "Berlin, Germany",
+    "latitude": "52.5170365",
+    "longitude": "13.3888599"
+  },
+  {
+    "room": "Ghosthunter Brandon Darkmoor[Geisterj\u00e4ger Brandon Darkmoor]",
+    "url": "https://the-room-berlin.com/en-brandon-darkmoor/",
+    "company": "The Room",
+    "location": "Berlin, Germany",
+    "latitude": "52.5170365",
+    "longitude": "13.3888599"
+  },
+  {
+    "room": "The Lost Treasure of Alexander von Humboldt",
+    "url": "https://the-room-berlin.com/en-lost-treasure/",
+    "company": "The Room",
+    "location": "Berlin, Germany",
+    "latitude": "52.5170365",
+    "longitude": "13.3888599"
+  },
+  {
+    "room": "The Alley[Die Gasse]",
+    "url": "https://xn--rtselraum-v2a.de/spiele/raetselraeume/die-gasse/",
+    "company": "R\u00e4tselraum Ruhrpott",
+    "location": "Bochum, Germany",
+    "latitude": "51.4818111",
+    "longitude": "7.2196635"
+  },
+  {
+    "room": "It's Back![Es ist Zur\u00fcck!]",
+    "url": "https://www.thecodeagency.de/en/",
+    "company": "The Code Agency",
+    "location": "D\u00fcsseldorf, Germany",
+    "latitude": "51.2254018",
+    "longitude": "6.7763137"
+  },
+  {
+    "room": "The Search for the Scepter of Light[Die Suche nach dem Zepter des Lichts]",
+    "url": "https://www.thecodeagency.de/en/",
+    "company": "The Code Agency",
+    "location": "D\u00fcsseldorf, Germany",
+    "latitude": "51.2254018",
+    "longitude": "6.7763137"
+  },
+  {
+    "room": "The Toy Maker[Der Spielzeugmacher]",
+    "url": "https://www.bigbreakhamburg.com/en/escape-room/the-toy-maker/",
+    "company": "Big Break Hamburg",
+    "location": "Hamburg, Germany",
+    "latitude": "53.550341",
+    "longitude": "10.000654"
+  },
+  {
+    "room": "Neptune's Curse[Der Fluch des Neptun]",
+    "url": "https://www.hidden.games/en/escape-room-hamburg/adventures/",
+    "company": "Hidden Games",
+    "location": "Hamburg, Germany",
+    "latitude": "53.550341",
+    "longitude": "10.000654"
+  },
+  {
+    "room": "Ghost Hunter Ernie Hudson and the Wailing Woman[Geisterj\u00e4ger Ernie Hudson und die weinende Frau]",
+    "url": "https://skurrilum.de/the-wailing-woman/?lang=en",
+    "company": "Skurrilum",
+    "location": "Hamburg, Germany",
+    "latitude": "53.550341",
+    "longitude": "10.000654"
+  },
+  {
+    "room": "Ghost Hunter Ernie Hudson and the Zoo of Death[Geisterj\u00e4ger Ernie Hudson und der Zoo des Todes]",
+    "url": "https://skurrilum.de/the-zoo-of-death/?lang=en",
+    "company": "Skurrilum",
+    "location": "Hamburg, Germany",
+    "latitude": "53.550341",
+    "longitude": "10.000654"
+  },
+  {
+    "room": "Panzerknacker - The Art of Stealing[Panzerknacker - Die Kunst des Stehlens]",
+    "url": "https://www.limbus-escape.de/angebote/panzerknacker",
+    "company": "Limbus Escape Center",
+    "location": "Krefeld, Germany",
+    "latitude": "51.3331205",
+    "longitude": "6.5623343"
+  },
+  {
+    "room": "Dark Machinations in Zagini's Magic Store[Dunkle Machenschaften in Zaginis Zauberladen]",
+    "url": "https://www.timebreak-mg.de/rooms/dunkle-machenschaften-in-zaginis-zauberladen/",
+    "company": "Timebreak",
+    "location": "M\u00f6nchengladbach, Germany",
+    "latitude": "51.1947131",
+    "longitude": "6.4353792"
+  },
+  {
+    "room": "Dr. Brown Boyd's Mental Hospital[Dr. Brown Boyd's Nervenheilanstalt]",
+    "url": "https://www.timebreak-mg.de/en/rooms/nervenheilanstalt/",
+    "company": "Timebreak (formerly ExitOut)",
+    "location": "M\u00f6nchengladbach, Germany",
+    "latitude": "51.1947131",
+    "longitude": "6.4353792"
+  },
+  {
+    "room": "The Amulet[Das Amulett]",
+    "url": "https://www.66minuten.de/en/missions/indoor/id-3-the-amulet-das-amulett.html",
+    "company": "66 Minuten",
+    "location": "Neuwied, Germany",
+    "latitude": "50.4302393",
+    "longitude": "7.466302"
+  },
+  {
+    "room": "Final Stop Line 1[Endstation Linie 1]",
+    "url": "https://rscape.de/en/escape-rooms/final-stop-line-1",
+    "company": "RSCAPE",
+    "location": "Remscheid, Germany",
+    "latitude": "51.1798706",
+    "longitude": "7.1943544"
+  },
+  {
+    "room": "The Hidden Chamber",
+    "url": "https://www.salzufler-unterwelt.de/en/hidden-chamber-escape-room/",
+    "company": "Salzufler Unterwelt (The Room Labs)",
+    "location": "Salzuflen, Germany",
+    "latitude": "52.0771518",
+    "longitude": "8.7554739"
+  },
+  {
+    "room": "The Watchmaker's Secret[Das Geheimnis der Uhrmacherin]",
+    "url": "https://www.harz-escape.de/index_en.html",
+    "company": "Harz Escape",
+    "location": "Wernigerode, Germany",
+    "latitude": "51.8344172",
+    "longitude": "10.7862526"
+  },
+  {
+    "room": "Kuriosum: Artifact of Darkness[Kuriosum: Artefakt der Finsternis]",
+    "url": "https://escaperoom-witten.de/",
+    "company": "Escape Room Witten / Gloomworks Department",
+    "location": "Witten, Germany",
+    "latitude": "51.4370171",
+    "longitude": "7.335124"
+  },
+  {
+    "room": "Asylum of Fear",
+    "url": "https://www.escape-stories.de/horror-escape-rooms/asylum-of-fear/?lang=en",
+    "company": "Escape Stories - Live Escape Game Wuppertal",
+    "location": "Wuppertal, Germany",
+    "latitude": "51.264018",
+    "longitude": "7.1780374"
+  },
+  {
+    "room": "The Dark Forest",
+    "url": "https://www.escape-stories.de/horror-escape-rooms/the-dark-forest/?lang=en",
+    "company": "Escape Stories - Live Escape Game Wuppertal",
+    "location": "Wuppertal, Germany",
+    "latitude": "51.264018",
+    "longitude": "7.1780374"
+  },
+  {
+    "room": "M'ama",
+    "url": "https://www.facebook.com/suSpENSEscapeRooms/",
+    "company": "#SUSPENSE",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Grudge",
+    "url": "https://1wayescape.gr/rooms/the-grudge-en/",
+    "company": "1Way Escape Room",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Lilliput[Lilipout]",
+    "url": "https://artofescape.gr/dwmatio-lilipout/",
+    "company": "Art of Escape",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Scooby...Who?",
+    "url": "https://artofescape.gr/dwmatio-scooby-doo/",
+    "company": "Art of Escape",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Monika\u2019s Diary, Theory I / Act I: Monika's Diary",
+    "url": "http://www.bbtheory-escape.gr/pages/monika.html",
+    "company": "Ban Bang Theory (formerly Dare Escape Rooms)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Litchver Woodland, Theory III / Act II: The Litchver Woodland",
+    "url": "http://www.bbtheory-escape.gr/pages/litchver.html",
+    "company": "Ban Bang Theory (formerly Dare Escape Rooms)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Evil Inside",
+    "url": "https://www.bloodlinesescaperooms.gr/en/evil-inside-2/",
+    "company": "Bloodlines Escape Room",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Outcast",
+    "url": "https://www.brainon.gr/outcast/?lang=en",
+    "company": "Brain On Escape Rooms",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Hide N Seek",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/hide-n-seek",
+    "company": "Brainiac Escape Rooms",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Operation Black \"I\"",
+    "url": "https://www.facebook.com/profile.php?id=100064766010804",
+    "company": "C9H13NO3 Donors",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Rebellion",
+    "url": "https://www.clockescaperooms.gr/quest/rebellion/",
+    "company": "Clock Escape Rooms (Greece)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Truth or Dare",
+    "url": "https://www.clockescaperooms.gr/en/quest/truth-or-dare-2/",
+    "company": "Clock Escape Rooms (Greece)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Woman in Black",
+    "url": "https://covenescaperooms.gr/",
+    "company": "Coven Escape Rooms",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Stigmata",
+    "url": "https://www.darkmaze.gr/?culture=en",
+    "company": "Dark Maze Escape Rooms",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Manifesto",
+    "url": "https://darkvisionproject.gr/",
+    "company": "Dark Vision Project",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Sacrifice",
+    "url": "https://www.disappearescape.gr/",
+    "company": "Disappear Escape Rooms",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Otherside / Room 107: Otherside",
+    "url": "https://escapetheory.gr/room-otherside/",
+    "company": "Escape Theory (formerly Escaped)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Houdini",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/houdini",
+    "company": "Escape World",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Lethal Decision",
+    "url": "https://www.escapeall.gr/el/EscapeRoom/Details/lethal-decision",
+    "company": "EscapeClue",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Lethal Decision 2: Hell Awaits",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/lethal-decision-2-hell-awaits",
+    "company": "EscapeClue",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Cosmos 05: Death in Space",
+    "url": "https://www.escaperoomathens.gr/eng/escape-room-athens-cosmos.html",
+    "company": "Escapepolis",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Butcher",
+    "url": "https://www.escaperoomathens.gr/eng/escape-room-athens-butcher.html",
+    "company": "Escapepolis",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Creepy Store and the Lost Souls",
+    "url": "https://www.escaperoomathens.gr/escape-room-athens-creepy-store.html",
+    "company": "Escapepolis",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Ghost Writer",
+    "url": "https://www.horrorproductions.gr/en",
+    "company": "Horror Productions",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "03:15",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/03-15",
+    "company": "Insanity Escape Rooms",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Omerta",
+    "url": "https://www.lastwish.gr/omerta/",
+    "company": "Last Wish",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Sinister",
+    "url": "https://lockbusters.gr/en/rooms/sinister/",
+    "company": "Lockbusters (Greece)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The School of the Burning Souls",
+    "url": "https://www.escapeall.gr/el/EscapeRoom/Details/the-school-of-burning-souls",
+    "company": "LockDown Escape Rooms (Greece)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Chapel & Catacombs",
+    "url": "https://www.lockhill.gr/chapel--catacombs.html",
+    "company": "Lockhill",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Sanatorium (Midnight Mode)[\u03a4\u03bf \u03a3\u03b1\u03bd\u03b1\u03c4\u03cc\u03c1\u03b9\u03bf (\u039c\u03b5\u03c3\u03ac\u03bd\u03c5\u03c7\u03c4\u03b1)]",
+    "url": "https://www.lockhill.gr/the-sanatorium.html",
+    "company": "Lockhill",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Sanatorium (Night Mode)[\u03a4\u03bf \u03a3\u03b1\u03bd\u03b1\u03c4\u03cc\u03c1\u03b9\u03bf (\u039d\u03cd\u03c7\u03c4\u03b1)]",
+    "url": "https://www.lockhill.gr/the-sanatorium.html",
+    "company": "Lockhill",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Mystic Project",
+    "url": "https://mystic-corporation.gr/rooms/mystic-project/",
+    "company": "Mystic Corporation",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Metanoia",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/metanoia",
+    "company": "Neverland (Greece)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Amen",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/amen",
+    "company": "Neverland (Greece) (formerly Fear of the Dark)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Death Row",
+    "url": "http://noexit.gr/room/death-row/",
+    "company": "No Exit",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "El Exorcista",
+    "url": "http://noexit.gr/room/el-exorcista/",
+    "company": "No Exit",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Wanted: Dead or Alive",
+    "url": "https://noexit.gr/rooms/dead-or-alive-en/",
+    "company": "No Exit",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Paradox Project 2: The Bookstore[Paradox Project 2: To \u0392\u03b9\u03b2\u03bb\u03b9\u03bf\u03c0\u03c9\u03bb\u03b5\u03af\u03bf]",
+    "url": "http://paradoxproject.gr/home-en/",
+    "company": "Paradox Project",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Paradox Project 3: The Music Academy[Paradox Project 3: \u03a4\u03bf \u03a9\u03b4\u03b5\u03af\u03bf\u03bd]",
+    "url": "http://paradoxproject.gr/home-en/",
+    "company": "Paradox Project",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Paradox Project: The Mansion[Paradox Project: \u0397 \u0388\u03c0\u03b1\u03c5\u03bb\u03b7]",
+    "url": "http://paradoxproject.gr/home-en/",
+    "company": "Paradox Project",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Why?",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/why-seven-souls",
+    "company": "Seven Souls",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Sherlock Maze 2",
+    "url": "https://sherlockedhomes.gr/services/sherlock-holmes/",
+    "company": "Sherlocked Homes",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Cursed Willy",
+    "url": "https://sherlockedhomes.gr/en/the-cursed-willy/",
+    "company": "Sherlocked Homes",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Orphanage[Orfanato]",
+    "url": "https://www.spookeyescape.gr/en",
+    "company": "Spookey Escape",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Wake Up",
+    "url": "https://www.station33.net/",
+    "company": "Station 33",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Experimentum X",
+    "url": "https://trapped.gr/room/experimentum-x/",
+    "company": "Trapped (Greece)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "The Curse of La Llorona",
+    "url": "https://vansa-escape.gr/en/the-curse-of-la-llorona/",
+    "company": "Vansa Escape Rooms",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Don't Take a Breath",
+    "url": "https://verone.gr/dont-take-a-breath",
+    "company": "Verone",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Ice Tiki",
+    "url": "https://www.wayoutescaperooms.gr/",
+    "company": "Way Out Escape Rooms (Greece)",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Zoe",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/zoe",
+    "company": "XII Divisions Escape Rooms",
+    "location": "Athens, Greece",
+    "latitude": "37.9755648",
+    "longitude": "23.7348324"
+  },
+  {
+    "room": "Mea Culpa",
+    "url": "https://www.escapeall.gr/en/EscapeRoom/Details/mea-culpa",
+    "company": "Fear Factor",
+    "location": "Piraeus, Greece",
+    "latitude": "37.9431594",
+    "longitude": "23.6470593"
+  },
+  {
+    "room": "Secret Subway[Titkos Metr\u00f3]",
+    "url": "https://escaperoom.hu/rooms/secret-subway/",
+    "company": "E-Exit",
+    "location": "Budapest, Hungary",
+    "latitude": "47.4978789",
+    "longitude": "19.0402383"
+  },
+  {
+    "room": "The Lost Crystal Skull[Az elveszett krist\u00e1lykoponya]",
+    "url": "https://www.mystiqueroom.hu/en/room/the-lost-crystal-skull/",
+    "company": "Mystique Room (Hungary)",
+    "location": "Budapest, Hungary",
+    "latitude": "47.4978789",
+    "longitude": "19.0402383"
+  },
+  {
+    "room": "Aztec Catacomb[Azt\u00e9k s\u00edrkamra]",
+    "url": "https://neverland.hu/en/escape-room-budapest/",
+    "company": "Neverland (Hungary)",
+    "location": "Budapest, Hungary",
+    "latitude": "47.4978789",
+    "longitude": "19.0402383"
+  },
+  {
+    "room": "Plan Budapest - Bank Robbery[A nagy p\u00e9nzrabl\u00e1s]",
+    "url": "https://neverland.hu/en/escape-room-budapest/",
+    "company": "Neverland (Hungary)",
+    "location": "Budapest, Hungary",
+    "latitude": "47.4978789",
+    "longitude": "19.0402383"
+  },
+  {
+    "room": "Pirates' Robbers[\u05e9\u05d5\u05d3\u05d3\u05d9 \u05d4\u05e4\u05d9\u05e8\u05d0\u05d8\u05d9\u05dd]",
+    "url": "https://escapelife.co.il/portfolio_page/%d7%a9%d7%95%d7%93%d7%93%d7%99-%d7%94%d7%a4%d7%99%d7%a8%d7%90%d7%98%d7%99%d7%9d/",
+    "company": "Escape Life (formerly Exit Room Israel)",
+    "location": "Ashdod, Israel",
+    "latitude": "31.7977314",
+    "longitude": "34.6529922"
+  },
+  {
+    "room": "Chocolate World[\u05e2\u05d5\u05dc\u05dd \u05d4\u05e9\u05d5\u05e7\u05d5\u05dc\u05d3]",
+    "url": "https://www.amazonescape.co.il/chocolate",
+    "company": "Amazon Escape",
+    "location": "Holon, Israel",
+    "latitude": "32.01599895",
+    "longitude": "34.78595635978459"
+  },
+  {
+    "room": "Kofiko[\u05e7\u05d5\u05e4\u05d9\u05e7\u05d5]",
+    "url": "https://www.amazonescape.co.il/kofiko",
+    "company": "Amazon Escape",
+    "location": "Holon, Israel",
+    "latitude": "32.01599895",
+    "longitude": "34.78595635978459"
+  },
+  {
+    "room": "Battle of Kitchens[\u05e7\u05e8\u05d1 \u05de\u05d8\u05d1\u05d7\u05d9\u05dd]",
+    "url": "https://www.open-the-door.co.il/room/battle",
+    "company": "Open The Door (Israel)",
+    "location": "Jerusalem, Israel",
+    "latitude": "31.7788242",
+    "longitude": "35.2257626"
+  },
+  {
+    "room": "Robin Hood[\u05e8\u05d5\u05d1\u05d9\u05df \u05d4\u05d5\u05d3]",
+    "url": "https://actiongame.co.il/%d7%a8%d7%95%d7%91%d7%99%d7%9f-%d7%94%d7%95%d7%93/",
+    "company": "Action Game",
+    "location": "Kfar Saba, Israel",
+    "latitude": "32.1773471",
+    "longitude": "34.907459"
+  },
+  {
+    "room": "Harry Potter's Adventures[\u05d4\u05e8\u05e4\u05ea\u05e7\u05d0\u05d5\u05ea \u05d4\u05d0\u05e8\u05d9 \u05e4\u05d5\u05d8\u05e8]",
+    "url": "https://puzzlebox.co.il/%d7%97%d7%93%d7%a8-%d7%91%d7%a8%d7%99%d7%97%d7%94-%d7%94%d7%a8%d7%a4%d7%aa%d7%a7%d7%90%d7%95%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a4%d7%95%d7%98%d7%a8-%d7%a0%d7%aa%d7%a0%d7%99%d7%94/",
+    "company": "Puzzle Box",
+    "location": "Netanya, Israel",
+    "latitude": "32.3286181",
+    "longitude": "34.8566246"
+  },
+  {
+    "room": "The Vikings[\u05d4\u05d5\u05d9\u05e7\u05d9\u05e0\u05d2\u05d9\u05dd]",
+    "url": "https://www.escaperoom.co.il/en/petah-tikva-vikings",
+    "company": "Escape Room Israel (formerly Escape Sign)",
+    "location": "Petah Tikva, Israel",
+    "latitude": "32.0877639",
+    "longitude": "34.8859985"
+  },
+  {
+    "room": "Action![\u05d0\u05e7\u05e9\u05df!]",
+    "url": "https://www.the-maze.co.il/language/en/room/action/",
+    "company": "The Maze",
+    "location": "Petah Tikva, Israel",
+    "latitude": "32.0877639",
+    "longitude": "34.8859985"
+  },
+  {
+    "room": "Cube[\u05e7\u05d9\u05d5\u05d1]",
+    "url": "https://www.the-maze.co.il/room/%D7%97%D7%93%D7%A8-%D7%91%D7%A8%D7%99%D7%97%D7%94-%D7%A7%D7%99%D7%95%D7%91/",
+    "company": "The Maze",
+    "location": "Petah Tikva, Israel",
+    "latitude": "32.0877639",
+    "longitude": "34.8859985"
+  },
+  {
+    "room": "Heist Battles[\u05e7\u05e8\u05d1 \u05db\u05e1\u05e4\u05d5\u05ea]",
+    "url": "https://www.the-maze.co.il/language/en/room/heist-battles/",
+    "company": "The Maze",
+    "location": "Petah Tikva, Israel",
+    "latitude": "32.0877639",
+    "longitude": "34.8859985"
+  },
+  {
+    "room": "The Sting[\u05d4\u05e2\u05d5\u05e7\u05e5]",
+    "url": "https://www.the-maze.co.il/room/%d7%97%d7%93%d7%a8-%d7%91%d7%a8%d7%99%d7%97%d7%94-%d7%94%d7%a2%d7%95%d7%a7%d7%a5/",
+    "company": "The Maze",
+    "location": "Petah Tikva, Israel",
+    "latitude": "32.0877639",
+    "longitude": "34.8859985"
+  },
+  {
+    "room": "Infinity[\u05d0\u05d9\u05e0\u05e4\u05d9\u05e0\u05d9\u05d8\u05d9]",
+    "url": "https://www.escape-center-israel.com/%D7%90%D7%99%D7%A0%D7%A4%D7%99%D7%A0%D7%99%D7%98%D7%99?lang=en",
+    "company": "Escape Center",
+    "location": "Rishon LeZion, Israel",
+    "latitude": "31.9635712",
+    "longitude": "34.8101149"
+  },
+  {
+    "room": "The Intervention[\u05d4\u05d4\u05ea\u05e2\u05e8\u05d1\u05d5\u05ea]",
+    "url": "https://www.escape-center-israel.com/intervention?lang=en",
+    "company": "Escape Center",
+    "location": "Rishon LeZion, Israel",
+    "latitude": "31.9635712",
+    "longitude": "34.8101149"
+  },
+  {
+    "room": "The Kami Temple",
+    "url": "https://www.escape-center-israel.com/thekamitemple?lang=en",
+    "company": "Escape Center",
+    "location": "Rishon LeZion, Israel",
+    "latitude": "31.9635712",
+    "longitude": "34.8101149"
+  },
+  {
+    "room": "Book of Shadows[\u05e1\u05e4\u05e8 \u05d4\u05e6\u05dc\u05dc\u05d9\u05dd]",
+    "url": "https://gameit.co.il/%D7%A1%D7%A4%D7%A8-%D7%94%D7%A6%D7%9C%D7%9C%D7%99%D7%9D-%D7%97%D7%93%D7%A8-%D7%91%D7%A8%D7%99%D7%97%D7%94/",
+    "company": "GameIt",
+    "location": "Rishon LeZion, Israel",
+    "latitude": "31.9635712",
+    "longitude": "34.8101149"
+  },
+  {
+    "room": "Heroes vs. Villains[\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9\u05dd \u05e0\u05d2\u05d3 \u05e0\u05d1\u05dc\u05d9\u05dd]",
+    "url": "https://gameit.co.il/%D7%92%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%9D-%D7%A0%D7%92%D7%93-%D7%A0%D7%91%D7%9C%D7%99%D7%9D-%D7%97%D7%93%D7%A8-%D7%91%D7%A8%D7%99%D7%97%D7%94/",
+    "company": "GameIt",
+    "location": "Rishon LeZion, Israel",
+    "latitude": "31.9635712",
+    "longitude": "34.8101149"
+  },
+  {
+    "room": "Gulliver's Travels[\u05de\u05e1\u05e2\u05d5\u05ea \u05d2\u05d5\u05dc\u05d9\u05d1\u05e8]",
+    "url": "https://sherlocked.co.il/en/escape_rooms/gulliver/",
+    "company": "Sherlocked Israel",
+    "location": "Rishon LeZion, Israel",
+    "latitude": "31.9635712",
+    "longitude": "34.8101149"
+  },
+  {
+    "room": "Hollywood 117[\u05d4\u05d5\u05dc\u05d9\u05d5\u05d5\u05d3 117]",
+    "url": "http://www.hypeesc.com/HOLLYWOOD-117.html",
+    "company": "Hype Esc",
+    "location": "Tel Aviv, Israel",
+    "latitude": "32.0852997",
+    "longitude": "34.7818064"
+  },
+  {
+    "room": "Suitcase of Dreams[La Valigia dei Sogni]",
+    "url": "https://emporiumescape.com/en/",
+    "company": "Emporium Escape",
+    "location": "Milan, Italy",
+    "latitude": "45.4641943",
+    "longitude": "9.1896346"
+  },
+  {
+    "room": "Birth Machine",
+    "url": "https://madmachines.it/?lang=en",
+    "company": "Mad Machines",
+    "location": "Milan, Italy",
+    "latitude": "45.4641943",
+    "longitude": "9.1896346"
+  },
+  {
+    "room": "Time Machine",
+    "url": "https://madmachines.it/?lang=en",
+    "company": "Mad Machines",
+    "location": "Milan, Italy",
+    "latitude": "45.4641943",
+    "longitude": "9.1896346"
+  },
+  {
+    "room": "Shadow Zen[\u6f06\u9ed2\u306e\u609f\u308a]",
+    "url": "https://www.studioescape.jp/products/shadow-zen",
+    "company": "Studio Escape",
+    "location": "Osaka, Japan",
+    "latitude": "34.661629000000005",
+    "longitude": "135.49992679245517"
+  },
+  {
+    "room": "Poppet",
+    "url": "https://rockcityescape.nl/poppet/",
+    "company": "Rock City Escape",
+    "location": "Amersfoort, Netherlands",
+    "latitude": "52.1562499",
+    "longitude": "5.3896944"
+  },
+  {
+    "room": "Soup du Jour",
+    "url": "https://rockcityescape.nl/en/soup-du-jour-eng/",
+    "company": "Rock City Escape",
+    "location": "Amersfoort, Netherlands",
+    "latitude": "52.1562499",
+    "longitude": "5.3896944"
+  },
+  {
+    "room": "The Amsterdam Catacombs",
+    "url": "http://amsterdamcatacombs.com/en/home/",
+    "company": "Logic Locks",
+    "location": "Amsterdam, Netherlands",
+    "latitude": "52.3730796",
+    "longitude": "4.8924534"
+  },
+  {
+    "room": "The Alchemist",
+    "url": "https://www.sherlocked.nl/experiences/the-alchemist",
+    "company": "Sherlocked Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "latitude": "52.3730796",
+    "longitude": "4.8924534"
+  },
+  {
+    "room": "The Vault",
+    "url": "https://www.sherlocked.nl/experiences/the-vault",
+    "company": "Sherlocked Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "latitude": "52.3730796",
+    "longitude": "4.8924534"
+  },
+  {
+    "room": "Corpse Inc.",
+    "url": "https://escaperoomjunkie.nl/en/escaperoom-junkie-baarn-en/",
+    "company": "Escaperoom Junkie",
+    "location": "Baarn, Netherlands",
+    "latitude": "52.2002549",
+    "longitude": "5.269143393313942"
+  },
+  {
+    "room": "The Dome",
+    "url": "https://escaperoom.nl/en/the-dome/",
+    "company": "Mama Bazooka (formerly Escape Room Nederland)",
+    "location": "Bunschoten, Netherlands",
+    "latitude": "52.2391743",
+    "longitude": "5.3734101"
+  },
+  {
+    "room": "The Asylum",
+    "url": "https://silenttown.nl/",
+    "company": "Silent Town",
+    "location": "Burgum, Netherlands",
+    "latitude": "53.1954807",
+    "longitude": "5.9871063"
+  },
+  {
+    "room": "Freakshow",
+    "url": "https://www.darkpark.com/en/escape-room-delft-freakshow/",
+    "company": "DarkPark",
+    "location": "Delft, Netherlands",
+    "latitude": "51.999457199999995",
+    "longitude": "4.362724538543995"
+  },
+  {
+    "room": "Catch Me If You Can",
+    "url": "https://www.escaperoomeindhoven.nl/en/escape-rooms/catch-me-if-you-can/",
+    "company": "Next Level (Netherlands)",
+    "location": "Eindhoven, Netherlands",
+    "latitude": "51.4392648",
+    "longitude": "5.478633"
+  },
+  {
+    "room": "Water of Life[Levenswater]",
+    "url": "https://en.emmelocked.nl/",
+    "company": "Emmelocked Escape Room",
+    "location": "Emmeloord, Netherlands",
+    "latitude": "52.7091058",
+    "longitude": "5.7477459"
+  },
+  {
+    "room": "Escaperoom Groenlo - 1627",
+    "url": "https://escaperoomgroenlo.nl/",
+    "company": "Escaperoom Groenlo",
+    "location": "Groenlo, Netherlands",
+    "latitude": "52.0425903",
+    "longitude": "6.6170412"
+  },
+  {
+    "room": "Bella Ciao",
+    "url": "https://escaperoomkatwijk.com/bella-ciao/",
+    "company": "Escape Room Katwijk",
+    "location": "Katwijk, Netherlands",
+    "latitude": "52.2005078",
+    "longitude": "4.4146372"
+  },
+  {
+    "room": "Here I Am",
+    "url": "https://escaperoomkatwijk.com/here-i-am/",
+    "company": "Escape Room Katwijk",
+    "location": "Katwijk, Netherlands",
+    "latitude": "52.2005078",
+    "longitude": "4.4146372"
+  },
+  {
+    "room": "Pray",
+    "url": "https://escaperoomkatwijk.com/pray/",
+    "company": "Escape Room Katwijk",
+    "location": "Katwijk, Netherlands",
+    "latitude": "52.2005078",
+    "longitude": "4.4146372"
+  },
+  {
+    "room": "Inferno",
+    "url": "https://timed-adventures.nl/inferno-english/",
+    "company": "Timed Adventures",
+    "location": "Katwijk, Netherlands",
+    "latitude": "52.2005078",
+    "longitude": "4.4146372"
+  },
+  {
+    "room": "Escape from Wonderland",
+    "url": "https://www.escapefromwonderland.nl/en/",
+    "company": "Escape from Wonderland",
+    "location": "Leiden, Netherlands",
+    "latitude": "52.1594747",
+    "longitude": "4.4908843"
+  },
+  {
+    "room": "The Non Believers",
+    "url": "https://your-escape.nl/the-non-believers/",
+    "company": "Your Escape",
+    "location": "Leiden, Netherlands",
+    "latitude": "52.1594747",
+    "longitude": "4.4908843"
+  },
+  {
+    "room": "Jason's Legacy",
+    "url": "https://www.outerground.com/en/jasons-legacy/",
+    "company": "OuterGround Escape Rooms",
+    "location": "Rijswijk, Netherlands",
+    "latitude": "52.0446265",
+    "longitude": "4.3188215"
+  },
+  {
+    "room": "The Execution",
+    "url": "https://www.outerground.com/en/the-execution/",
+    "company": "OuterGround Escape Rooms (formerly The Escape Room Rijswijk)",
+    "location": "Rijswijk, Netherlands",
+    "latitude": "52.0446265",
+    "longitude": "4.3188215"
+  },
+  {
+    "room": "Stay in the Dark",
+    "url": "https://www.darkpark.com/escape-room-rotterdam-stay-in-the-dark/",
+    "company": "DarkPark",
+    "location": "Vlaardingen, Netherlands",
+    "latitude": "51.9227863",
+    "longitude": "4.329563378870851"
+  },
+  {
+    "room": "Lost and Found",
+    "url": "https://kamer237.nl/en/escaperoom/lost-found/",
+    "company": "Kamer 237",
+    "location": "Volkel, Netherlands",
+    "latitude": "51.6440771",
+    "longitude": "5.6557033"
+  },
+  {
+    "room": "Room 237[Kamer 237]",
+    "url": "https://kamer237.nl/en/escaperoom/kamer-237/",
+    "company": "Kamer 237",
+    "location": "Volkel, Netherlands",
+    "latitude": "51.6440771",
+    "longitude": "5.6557033"
+  },
+  {
+    "room": "The Concierge[De Conci\u00ebrge]",
+    "url": "https://kamer237.nl/de-concierge/",
+    "company": "Kamer 237",
+    "location": "Volkel, Netherlands",
+    "latitude": "51.6440771",
+    "longitude": "5.6557033"
+  },
+  {
+    "room": "Molly's Game",
+    "url": "https://www.down-the-hatch.nl/molly-s-game-en/",
+    "company": "Down the Hatch",
+    "location": "Voorburg, Netherlands",
+    "latitude": "52.0703201",
+    "longitude": "4.3558561"
+  },
+  {
+    "room": "Illusion",
+    "url": "https://epicescape.nl/en/",
+    "company": "Epic Escape (Netherlands)",
+    "location": "Waalwijk, Netherlands",
+    "latitude": "51.687337150000005",
+    "longitude": "5.017307939950269"
+  },
+  {
+    "room": "If Walls Could Whisper / The Orphanage",
+    "url": "https://www.darkpark.com/en/escape-room-zoetermeer-if-walls-could-whisper/",
+    "company": "DarkPark",
+    "location": "Zoetermeer, Netherlands",
+    "latitude": "52.06228915",
+    "longitude": "4.487754536970652"
+  },
+  {
+    "room": "The End",
+    "url": "https://www.darkpark.com/en/escape-room-zoetermeer-the-end/",
+    "company": "DarkPark",
+    "location": "Zoetermeer, Netherlands",
+    "latitude": "52.06228915",
+    "longitude": "4.487754536970652"
+  },
+  {
+    "room": "The Honeymoon Hotel",
+    "url": "https://www.darkpark.com/en/escape-room-zoetermeer-honeymoon-hotel/",
+    "company": "DarkPark",
+    "location": "Zoetermeer, Netherlands",
+    "latitude": "52.06228915",
+    "longitude": "4.487754536970652"
+  },
+  {
+    "room": "Superheroom",
+    "url": "https://mrlock.pl/superheroom/",
+    "company": "Mr Lock",
+    "location": "Bydgoszcz, Poland",
+    "latitude": "53.1219648",
+    "longitude": "18.0002529"
+  },
+  {
+    "room": "In the Shadow of the Pyramids[W cieniu piramid]",
+    "url": "https://wyjscieawaryjne.pl/warszawa/",
+    "company": "Wyj\u015bcie Awaryjne",
+    "location": "Bydgoszcz, Poland",
+    "latitude": "53.1219648",
+    "longitude": "18.0002529"
+  },
+  {
+    "room": "Operation: Metro[Operacja: Metro]",
+    "url": "https://wyjscieawaryjne.pl/bydgoszcz/",
+    "company": "Wyj\u015bcie Awaryjne",
+    "location": "Bydgoszcz, Poland",
+    "latitude": "53.1219648",
+    "longitude": "18.0002529"
+  },
+  {
+    "room": "Sea Tales[Morskie Opowie\u015bci]",
+    "url": "https://wyjscieawaryjne.pl/bydgoszcz/",
+    "company": "Wyj\u015bcie Awaryjne",
+    "location": "Bydgoszcz, Poland",
+    "latitude": "53.1219648",
+    "longitude": "18.0002529"
+  },
+  {
+    "room": "Steampunk: An Alternate Reality[Steampunk - alternatywna rzeczywisto\u015b\u0107]",
+    "url": "https://escapetime.pl/rooms/steampunk-an-alternate-reality/",
+    "company": "Escape Time (Poland)",
+    "location": "Gda\u0144sk, Poland",
+    "latitude": "54.3706858",
+    "longitude": "18.61298210330077"
+  },
+  {
+    "room": "Gates of Time - Silent Night[Wrota Czasu - Cicha Noc]",
+    "url": "http://ticktack.pl/",
+    "company": "TickTack",
+    "location": "Gliwice, Poland",
+    "latitude": "50.294113",
+    "longitude": "18.6657306"
+  },
+  {
+    "room": "Location[Lokalizacja]",
+    "url": "http://ticktack.pl/",
+    "company": "TickTack",
+    "location": "Gliwice, Poland",
+    "latitude": "50.294113",
+    "longitude": "18.6657306"
+  },
+  {
+    "room": "Dwarves[Krasnoludy]",
+    "url": "https://clueroom.pl/rezerwacja/",
+    "company": "Clue Room Pozna\u0144 (Escapelandia)",
+    "location": "Pozna\u0144, Poland",
+    "latitude": "52.4006632",
+    "longitude": "16.91973259178088"
+  },
+  {
+    "room": "Personality[Osobowo\u015b\u0107]",
+    "url": "http://continuumpoznan.pl/osobowosc/",
+    "company": "Continuum Pozna\u0144",
+    "location": "Pozna\u0144, Poland",
+    "latitude": "52.4006632",
+    "longitude": "16.91973259178088"
+  },
+  {
+    "room": "Strangers[Nieznajomi]",
+    "url": "http://continuumpoznan.pl/nieznajomi/",
+    "company": "Continuum Pozna\u0144",
+    "location": "Pozna\u0144, Poland",
+    "latitude": "52.4006632",
+    "longitude": "16.91973259178088"
+  },
+  {
+    "room": "Dead Man's Revenge[Zemsta Umarlaka]",
+    "url": "https://dreamscape.com.pl/pokoje/",
+    "company": "DreamScape",
+    "location": "Pozna\u0144, Poland",
+    "latitude": "52.4006632",
+    "longitude": "16.91973259178088"
+  },
+  {
+    "room": "The Green Mile[Zielona Mila]",
+    "url": "https://fun4brain.pl/zielona-mila/",
+    "company": "Fun4Brain (Escapelandia)",
+    "location": "Pozna\u0144, Poland",
+    "latitude": "52.4006632",
+    "longitude": "16.91973259178088"
+  },
+  {
+    "room": "Frank & Stein",
+    "url": "https://questrooms.pl/escaperoom/frank-stein/",
+    "company": "Questrooms (Poland)",
+    "location": "Sopot, Poland",
+    "latitude": "54.4430399",
+    "longitude": "18.561309520130756"
+  },
+  {
+    "room": "Warsaw Uprising[Powstanie Warszawskie]",
+    "url": "https://blackcat.pl/en/rooms/warsaw-uprising",
+    "company": "Black Cat Escape Room",
+    "location": "Warsaw, Poland",
+    "latitude": "52.2319581",
+    "longitude": "21.0067249"
+  },
+  {
+    "room": "Catacombs[Katakumby]",
+    "url": "https://zagadkownia.pl/pokoje/katakumby/",
+    "company": "Zagadkownia",
+    "location": "Warsaw, Poland",
+    "latitude": "52.2319581",
+    "longitude": "21.0067249"
+  },
+  {
+    "room": "Abandoned Hotel[Opuszczony Hotel]",
+    "url": "https://exit19.pl/en/rooms/abandoned-hotel/",
+    "company": "Exit19.pl",
+    "location": "Wroc\u0142aw, Poland",
+    "latitude": "51.1089776",
+    "longitude": "17.0326689"
+  },
+  {
+    "room": "Asylum[Ob\u0142\u0119d]",
+    "url": "https://exit19.pl/en/rooms/room-asylum/",
+    "company": "Exit19.pl",
+    "location": "Wroc\u0142aw, Poland",
+    "latitude": "51.1089776",
+    "longitude": "17.0326689"
+  },
+  {
+    "room": "King Arthur's Dungeons[Lochy Kr\u00f3la Artura]",
+    "url": "https://exit19.pl/en/rooms/king-arthurs-dungeon/",
+    "company": "Exit19.pl",
+    "location": "Wroc\u0142aw, Poland",
+    "latitude": "51.1089776",
+    "longitude": "17.0326689"
+  },
+  {
+    "room": "Underground",
+    "url": "https://www.escape2win.pt/en/underground",
+    "company": "Escape2Win",
+    "location": "Lisbon, Portugal",
+    "latitude": "38.7077507",
+    "longitude": "-9.1365919"
+  },
+  {
+    "room": "The Temple / Artifact[Templul / Artefact]",
+    "url": "https://nextlevelescape.ro/en/",
+    "company": "Next Level Escape (Romania)",
+    "location": "Bucharest, Romania",
+    "latitude": "44.4361414",
+    "longitude": "26.1027202"
+  },
+  {
+    "room": "Compadre Robbery[Atraco al Compadre]",
+    "url": "https://startplay.es/escape-room-en-murcia/",
+    "company": "Start Play",
+    "location": "Alcantarilla, Spain",
+    "latitude": "37.9680342",
+    "longitude": "-1.214954"
+  },
+  {
+    "room": "Abduction 4: Enterprises",
+    "url": "https://www.abduction.es/badalona/abduction4.html",
+    "company": "Abduction",
+    "location": "Badalona, Spain",
+    "latitude": "41.4493539",
+    "longitude": "2.248254"
+  },
+  {
+    "room": "Abduction 3: The Exam",
+    "url": "https://www.abduction.es/badalona/abduction3.html",
+    "company": "Abduction",
+    "location": "Badalona / Bilbao / Madrid / Murcia, Spain",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "room": "The Brewery[La Cerveseria]",
+    "url": "https://www.enigmik.com/en/",
+    "company": "Enigmik",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "Nakatomi Plaza",
+    "url": "https://www.escaperepublik.com/",
+    "company": "Escape Republik (Mad Mansion)",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "Bermuda: The Secret Never Revealed[Bermudas, el secreto jam\u00e1s revelado]",
+    "url": "https://www.finalcodeescaperoom.com/services/bermudas-el-secreto-jamas-revelado/",
+    "company": "Final Code (Plastic Robot)",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "Catacombs[Catacumbas]",
+    "url": "https://goldenpop.es/juegos/catacumbas/",
+    "company": "Golden Pop",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "Jurassic[Jur\u00e1sico]",
+    "url": "https://goldenpop.es/jurasico/",
+    "company": "Golden Pop",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "Biohazard",
+    "url": "https://biohazard.games/",
+    "company": "Horror Box",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "The Diamond of Souls[El diamante de almas]",
+    "url": "http://www.inmortalroom.com/",
+    "company": "Inmortal Room / Elements Materia Oscura (Elements Escape Rooms)",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "Kidnapped in Barcelona",
+    "url": "https://kidnappedinbcn.com/",
+    "company": "Kidnapped in BCN",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "Slasher Party",
+    "url": "https://openmindroomescape.es/slasher-party-escape-room/",
+    "company": "Open Mind Room Escape",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "District 111[Distrito 111]",
+    "url": "https://unrealroomescape.es/santmarti/",
+    "company": "Unreal Room Escape",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "The Wonders of Agrabah[Las Maravillas de Agrabah]",
+    "url": "https://unrealroomescape.es/vilapicina/",
+    "company": "Unreal Room Escape",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "Whitechapel: Charlotte's History[Whitechapel: La historia de Charlotte]",
+    "url": "http://www.roomwhitechapel.com",
+    "company": "Whitechapel",
+    "location": "Barcelona, Spain",
+    "latitude": "41.3828939",
+    "longitude": "2.1774322"
+  },
+  {
+    "room": "The House[La Casa]",
+    "url": "https://www.insomniacorp.com/escapes/6",
+    "company": "Insomnia Corporation",
+    "location": "Berga, Spain",
+    "latitude": "42.1011456",
+    "longitude": "1.8454758"
+  },
+  {
+    "room": "The Rebellion: Hybrid Bloodline[La Rebeli\u00f3n: L\u00ednea de Sangre H\u00edbrida]",
+    "url": "https://blindhousegames.com/",
+    "company": "Blindhouse Games",
+    "location": "Bilbao, Spain",
+    "latitude": "43.2630018",
+    "longitude": "-2.9350039"
+  },
+  {
+    "room": "Petra - The Lost Kingdom (Full Expedition - 120 min)[Petra - El reino perdido (expedici\u00f3n completa - 120 min)]",
+    "url": "http://petraescaperoom.com/index.php/english/",
+    "company": "Petra Escape Room",
+    "location": "Bilbao, Spain",
+    "latitude": "43.2630018",
+    "longitude": "-2.9350039"
+  },
+  {
+    "room": "Petra - The Lost Kingdom (Initial Expedition - 90 min) (played standalone, NOT as part of the 120 min version)[Petra - El reino perdido (expedici\u00f3n inicial - 90 min) (jugado de forma independiente, NO como parte de la versi\u00f3n de 120 min)]",
+    "url": "http://petraescaperoom.com/index.php/english/",
+    "company": "Petra Escape Room",
+    "location": "Bilbao, Spain",
+    "latitude": "43.2630018",
+    "longitude": "-2.9350039"
+  },
+  {
+    "room": "Roomions",
+    "url": "https://virusroomescape.com/en/games/roomions-english/",
+    "company": "Virus Room Escape",
+    "location": "Calella, Spain",
+    "latitude": "41.6132925",
+    "longitude": "2.6576102"
+  },
+  {
+    "room": "Tao Room Escape: Japanese Massage Center",
+    "url": "https://virusroomescape.com/en/games/tao-english/",
+    "company": "Virus Room Escape",
+    "location": "Calella, Spain",
+    "latitude": "41.6132925",
+    "longitude": "2.6576102"
+  },
+  {
+    "room": "Halloween City[Ciudad Halloween]",
+    "url": "https://carthagoescaperoom.es/ciudadhalloween",
+    "company": "Carthago Escape Room",
+    "location": "Cartagena, Spain",
+    "latitude": "37.6019353",
+    "longitude": "-0.9841152"
+  },
+  {
+    "room": "11S",
+    "url": "https://openmindroomescape.es/11s-escape-room/",
+    "company": "Open Mind Room Escape",
+    "location": "Cornell\u00e1 de Llobregat, Spain",
+    "latitude": "41.355724",
+    "longitude": "2.0706225"
+  },
+  {
+    "room": "Outline",
+    "url": "https://outlineescaperoom.es/",
+    "company": "Outline Escape Room",
+    "location": "Cornell\u00e1 de Llobregat, Spain",
+    "latitude": "41.355724",
+    "longitude": "2.0706225"
+  },
+  {
+    "room": "The Brotherhood of the Shadows[La Hermandad de las Sombras]",
+    "url": "https://lahermandaddelassombras.es/",
+    "company": "Castlemaniacs (Mad Mansion)",
+    "location": "Cuarte de Huerva, Spain",
+    "latitude": "41.5935919",
+    "longitude": "-0.9388829"
+  },
+  {
+    "room": "Road to the Black Lodge[Camino a la Logia Negra]",
+    "url": "https://www.lalogianegra.com/escape-room/",
+    "company": "La Logia Negra Escape Room",
+    "location": "Elche, Spain",
+    "latitude": "38.2653307",
+    "longitude": "-0.6988391"
+  },
+  {
+    "room": "Tests[Las Pruebas]",
+    "url": "https://hirukoeskape.com",
+    "company": "Hiruko Eskape",
+    "location": "Elizondo, Spain",
+    "latitude": "43.1463292",
+    "longitude": "-1.5183842"
+  },
+  {
+    "room": "Kemet Mysteries / The Forgotten Tomb[Misterios de Kemet / La tumba olvidada]",
+    "url": "https://www.kenopsia.es/eng/misterios-de-kemet/",
+    "company": "Kenopsia (formerly Misterios de Kemet)",
+    "location": "Esplugues de Llobregat, Spain",
+    "latitude": "41.3776796",
+    "longitude": "2.0899722"
+  },
+  {
+    "room": "Worm",
+    "url": "https://www.metamorfosisescaperoom.com/",
+    "company": "Metamorfosis Escape Room (formerly Unreal Room Escape)",
+    "location": "Esplugues de Llobregat, Spain",
+    "latitude": "41.3776796",
+    "longitude": "2.0899722"
+  },
+  {
+    "room": "Elkano Escape Room[Elkano Ihes Gela]",
+    "url": "https://elkanoescaperoom.eus/es/",
+    "company": "Experientziak",
+    "location": "Getaria, Spain",
+    "latitude": "43.3044559",
+    "longitude": "-2.2037374"
+  },
+  {
+    "room": "Inmortum 2",
+    "url": "https://hostal83.com/immortum/",
+    "company": "Hostal 83",
+    "location": "Gironella, Spain",
+    "latitude": "42.0337588",
+    "longitude": "1.8825316"
+  },
+  {
+    "room": "The Mine[La mina]",
+    "url": "https://unrealroomescape.es/hospitalet/",
+    "company": "Unreal Room Escape",
+    "location": "Hospitalet de Llobregat / Irun, Spain",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "room": "Malum",
+    "url": "https://krematoriumescaperoom.es/experiencia-malum/",
+    "company": "Krematorium Escape Rooms Experience",
+    "location": "L'Hospitalet de Llobregat, Spain",
+    "latitude": "41.3598601",
+    "longitude": "2.0997927"
+  },
+  {
+    "room": "Transporter",
+    "url": "http://www.eurekaescape.es",
+    "company": "Eureka! Escape Room",
+    "location": "Logro\u00f1o, Spain",
+    "latitude": "42.4661196",
+    "longitude": "-2.4396676"
+  },
+  {
+    "room": "Bites Motel",
+    "url": "https://bitethefly.com/bites-motel/",
+    "company": "Bite the Fly",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "The Bride[La Novia]",
+    "url": "https://blacklakeescaperoom.es/",
+    "company": "Black Lake Escape Room",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "Yellow Experience[Experiencia Amarilla]",
+    "url": "https://www.experiencitymadrid.com/en/experiencia-amarilla/",
+    "company": "Colors Escape Room (Experiencity)",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "The Maze[El Laberinto]",
+    "url": "https://descifra-escaperoom.es/en/escape-room-the-maze/",
+    "company": "Descifra Escape Room",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "Madrid Mine / Quintana Mine / The Mine Diavik[Mina Madrid / Mina de Quintana / La mina Diavik]",
+    "url": "https://www.hiddenescaperoom.es/salas/mina-madrid/",
+    "company": "Hidden Escape Room (formerly Unreal Room Escape)",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "Descendants of Sokar[Descendientes de Sokar]",
+    "url": "https://www.illusionescaperoom.com/rooms/descendientes-sokar/",
+    "company": "Illusion Escape Room (Spain)",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "The Professor's Disappearance[La desaparici\u00f3n del profesor]",
+    "url": "https://www.lacronosfera-agenciadeltiempo.com/la-desaparicion-del-profesor",
+    "company": "La Cronosfera Agencia del Tiempo",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "The Tailor[El Sastre]",
+    "url": "https://locktopusescape.com/el-sastre/",
+    "company": "Locktopus",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "The Saint[La Santa]",
+    "url": "https://www.shockescaperoom.com/",
+    "company": "Shock Creations",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "Chapter 2: Diamond of Souls[Cap\u00edtulo 2: Diamante de Almas]",
+    "url": "https://terrorstories.com/madrid/diamante-de-almas-escape-room",
+    "company": "Terror Stories (Experiencity)",
+    "location": "Madrid, Spain",
+    "latitude": "40.4167047",
+    "longitude": "-3.7035825"
+  },
+  {
+    "room": "MegaChef / Cooking Academy[MegaChef / Academia de cocina]",
+    "url": "https://cluehunter.es/megachef/",
+    "company": "Clue Hunter / The City (Elements Escape Rooms)",
+    "location": "Madrid / Terrassa / Valencia, Spain",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "room": "Cryogenic[Criogenic]",
+    "url": "https://criogenicescaperoom.com/",
+    "company": "Criogenic",
+    "location": "Madrid / Zaragoza, Spain",
+    "latitude": "41.6554142",
+    "longitude": "-0.8969797"
+  },
+  {
+    "room": "Game-On",
+    "url": "https://www.laclauroomescape.com/GAME-ON/",
+    "company": "La Clau",
+    "location": "Manresa, Spain",
+    "latitude": "41.7288939",
+    "longitude": "1.8286765"
+  },
+  {
+    "room": "Nathael",
+    "url": "https://cubickroomescape.es/mataro/",
+    "company": "Cubick",
+    "location": "Matar\u00f3, Spain",
+    "latitude": "41.5398348",
+    "longitude": "2.4448926"
+  },
+  {
+    "room": "Poison",
+    "url": "https://www.kadabraescape.com/",
+    "company": "Kadabra Escape",
+    "location": "Matar\u00f3, Spain",
+    "latitude": "41.5398348",
+    "longitude": "2.4448926"
+  },
+  {
+    "room": "Cursed Expedition[Expedici\u00f3n Maldita]",
+    "url": "https://mythosmurcia.es/expedicion-maldita/",
+    "company": "Mythos Escape Room",
+    "location": "Murcia, Spain",
+    "latitude": "37.9923795",
+    "longitude": "-1.1305431"
+  },
+  {
+    "room": "Night Shift",
+    "url": "https://unrealroomescape.es/sabadell/",
+    "company": "Unreal Room Escape",
+    "location": "Sabadell, Spain",
+    "latitude": "41.5421013",
+    "longitude": "2.1138977"
+  },
+  {
+    "room": "The Possession[La posesi\u00f3n]",
+    "url": "https://en.arcanum.es/",
+    "company": "Arcanum",
+    "location": "Sant Sadurn\u00ed d'Anoia, Spain",
+    "latitude": "41.4244663",
+    "longitude": "1.7863949"
+  },
+  {
+    "room": "Alien: The Origin[Alien: El origen]",
+    "url": "https://www.escapebarcelona.com/en/alien-origin.php",
+    "company": "Escape Barcelona",
+    "location": "Santa Coloma de Gramenet, Spain",
+    "latitude": "41.4515626",
+    "longitude": "2.2083371"
+  },
+  {
+    "room": "CyberCity 2049",
+    "url": "https://www.escapebarcelona.com/cybercity-2049.php",
+    "company": "Escape Barcelona",
+    "location": "Santa Coloma de Gramenet, Spain",
+    "latitude": "41.4515626",
+    "longitude": "2.2083371"
+  },
+  {
+    "room": "K.O.N.G Protocol",
+    "url": "https://www.escapebarcelona.com/en/kong-protocol.php",
+    "company": "Escape Barcelona",
+    "location": "Santa Coloma de Gramenet, Spain",
+    "latitude": "41.4515626",
+    "longitude": "2.2083371"
+  },
+  {
+    "room": "Tomb Hunter: Akasha's Legend[Tomb Hunter: La leyenda de Akasha]",
+    "url": "https://www.escapebarcelona.com/en/tomb-hunter-akashas-legend.php",
+    "company": "Escape Barcelona",
+    "location": "Santa Coloma de Gramenet, Spain",
+    "latitude": "41.4515626",
+    "longitude": "2.2083371"
+  },
+  {
+    "room": "Olympus[Olimpo]",
+    "url": "http://olimpoescaperoom.com/",
+    "company": "Portento",
+    "location": "Santa Coloma de Gramenet, Spain",
+    "latitude": "41.4515626",
+    "longitude": "2.2083371"
+  },
+  {
+    "room": "Ellebanna",
+    "url": "https://www.estrategyroomscape.com/",
+    "company": "Strategy",
+    "location": "Terrassa, Spain",
+    "latitude": "41.5629623",
+    "longitude": "2.0100492"
+  },
+  {
+    "room": "The Tavern[La Taberna]",
+    "url": "https://thecityescaperoom.com/barcelona/la-taberna",
+    "company": "The City Escape Room (Elements Escape Rooms, Vortex Escape)",
+    "location": "Terrassa, Spain",
+    "latitude": "41.5629623",
+    "longitude": "2.0100492"
+  },
+  {
+    "room": "The Mystery of Scum Island",
+    "url": "https://www.madnesstoledo.es/the-mystery-of-scum-island/",
+    "company": "Madness Toledo Escape Room (Mad Mansion)",
+    "location": "Toledo, Spain",
+    "latitude": "39.8560679",
+    "longitude": "-4.0239568"
+  },
+  {
+    "room": "Josep Fontcalda House Museum[Casa Museu Josep Fontcalda]",
+    "url": "https://www.1801escaperoom.com/?lang=en",
+    "company": "1801 Escape Room",
+    "location": "Tona, Spain",
+    "latitude": "41.8538039",
+    "longitude": "2.2280115"
+  },
+  {
+    "room": "Black Experience: The Madman in the Alley[Experienca Negra: El loco del callej\u00f3n]",
+    "url": "https://colorsescaperoom.com/valencia",
+    "company": "Colors Escape Room (Experiencity) (formerly Skp Room)",
+    "location": "Valencia, Spain",
+    "latitude": "39.4697065",
+    "longitude": "-0.3763353"
+  },
+  {
+    "room": "Charon[Caronte]",
+    "url": "https://terrorstories.com/valencia/reservar?room=caronte",
+    "company": "Evil House",
+    "location": "Valencia, Spain",
+    "latitude": "39.4697065",
+    "longitude": "-0.3763353"
+  },
+  {
+    "room": "Perfect Shot in Buddha's Garden[Golpe perfecto en el jard\u00edn de Buda]",
+    "url": "https://factoriaescaperoom.com/",
+    "company": "Factor\u00eda Escape Room",
+    "location": "Valencia, Spain",
+    "latitude": "39.4697065",
+    "longitude": "-0.3763353"
+  },
+  {
+    "room": "The Hairdressing[La Peluquer\u00eda]",
+    "url": "https://thexdoor.com/en/the-hairdressing/",
+    "company": "The X-Door",
+    "location": "Valencia, Spain",
+    "latitude": "39.4697065",
+    "longitude": "-0.3763353"
+  },
+  {
+    "room": "Cellular Odyssey[Odisea Celular]",
+    "url": "https://canbruna.cat/en/game/",
+    "company": "Can Bruna",
+    "location": "Vilafranca del Pened\u00e8s, Spain",
+    "latitude": "41.3463825",
+    "longitude": "1.6995213"
+  },
+  {
+    "room": "The Innkeeper's Son[El hijo del posadero]",
+    "url": "https://dragonbornvitoria.es",
+    "company": "DragonBorn Escape Room (Mad Mansion)",
+    "location": "Vitoria-Gasteiz, Spain",
+    "latitude": "42.8465088",
+    "longitude": "-2.6724025"
+  },
+  {
+    "room": "A Legendary Adventure[Una Aventura de Leyenda]",
+    "url": "https://maytokingdom.es/juegos/una-aventura-de-leyenda/",
+    "company": "Mayto Kingdom (Mad Mansion)",
+    "location": "Vitoria-Gasteiz, Spain",
+    "latitude": "42.8465088",
+    "longitude": "-2.6724025"
+  },
+  {
+    "room": "Kaleidoscope 1963[Kaleidoskop 1963]",
+    "url": "https://timemaze.ch/en/kaleidoskop/",
+    "company": "Time Maze",
+    "location": "Baden, Switzerland",
+    "latitude": "47.4736827",
+    "longitude": "8.3086822"
+  },
+  {
+    "room": "Antenna Palace",
+    "url": "https://www.trapgame.ch/fr/Rooms/57-Antenna-Palace/",
+    "company": "Trapgame",
+    "location": "Charrat, Switzerland",
+    "latitude": "46.1220633",
+    "longitude": "7.1347402"
+  },
+  {
+    "room": "West City Prison[La Prison de West City]",
+    "url": "https://www.trapgame.ch/fr/Rooms/36-La-Prison-de-West-City/",
+    "company": "Trapgame",
+    "location": "Charrat, Switzerland",
+    "latitude": "46.1220633",
+    "longitude": "7.1347402"
+  },
+  {
+    "room": "Aunt Hilda's Room[La Chambre de Tante Hilda]",
+    "url": "https://triptraphotel-escape.ch/en/aunt-hilda/",
+    "company": "Trip Trap",
+    "location": "Geneva, Switzerland",
+    "latitude": "46.2017559",
+    "longitude": "6.1466014"
+  },
+  {
+    "room": "Mr. Trippolyte's Cinema / Mr. Trippolyte's Vestibule[Le Cin\u00e9ma de M. Trippolyte / Le Vestibule de M. Trippolyte]",
+    "url": "https://triptrapescape.ch/en/game/mr-trippolytes-cinema/",
+    "company": "Trip Trap",
+    "location": "Geneva, Switzerland",
+    "latitude": "46.2017559",
+    "longitude": "6.1466014"
+  },
+  {
+    "room": "The Antiquary\u2019s Testament[Le Testament de l'Antiquaire]",
+    "url": "https://triptrapescape.ch/en/game/the-antiquarys-testament/",
+    "company": "Trip Trap",
+    "location": "Geneva, Switzerland",
+    "latitude": "46.2017559",
+    "longitude": "6.1466014"
+  },
+  {
+    "room": "The House of Uncle Cornelius[La Maison de Tonton Corn\u00e9lius]",
+    "url": "https://triptrapescape.ch/en/game/the-house-of-uncle-cornelius/",
+    "company": "Trip Trap",
+    "location": "Geneva, Switzerland",
+    "latitude": "46.2017559",
+    "longitude": "6.1466014"
+  },
+  {
+    "room": "Secret Tales from the Brothers Grimm",
+    "url": "https://www.nextlevelescape.ch/secret-tales",
+    "company": "Next Level Escape (Switzerland)",
+    "location": "Kloten, Switzerland",
+    "latitude": "47.4525133",
+    "longitude": "8.5861477"
+  },
+  {
+    "room": "Loot the Lanes",
+    "url": "https://pierpressure.co.uk/escaperooms/loot-the-lanes/",
+    "company": "Pier Pressure",
+    "location": "Brighton, UK",
+    "latitude": "50.8214626",
+    "longitude": "-0.1400561"
+  },
+  {
+    "room": "Atlantis",
+    "url": "https://www.theescapement.co.uk/escape-rooms-broadstairs",
+    "company": "The Escapement (UK)",
+    "location": "Broadstairs, UK",
+    "latitude": "51.3586758",
+    "longitude": "1.4407855"
+  },
+  {
+    "room": "The Explorer's Diary",
+    "url": "https://www.houndsescape.co.uk/the-explorers-diary",
+    "company": "Hounds Escape Game Experiences",
+    "location": "Crawley, UK",
+    "latitude": "51.1103444",
+    "longitude": "-0.1801094"
+  },
+  {
+    "room": "SpellCraft",
+    "url": "https://www.tulleysescape.com/escape-rooms/view/spellcraft",
+    "company": "Tulleys Escape Rooms",
+    "location": "Crawley, UK",
+    "latitude": "51.1103444",
+    "longitude": "-0.1801094"
+  },
+  {
+    "room": "The Murder of Max Sinclair / Case Closed",
+    "url": "https://www.caseclosededinburgh.co.uk/",
+    "company": "Case Closed",
+    "location": "Edinburgh, UK",
+    "latitude": "55.9533456",
+    "longitude": "-3.1883749"
+  },
+  {
+    "room": "Area 51\u00bd",
+    "url": "https://www.theescaporium.com/the-escape-rooms/area-51%C2%BD/",
+    "company": "The Escaporium",
+    "location": "Halifax, UK",
+    "latitude": "53.7229229",
+    "longitude": "-1.8604874"
+  },
+  {
+    "room": "The Battle for Britain",
+    "url": "https://escapeplanltd.com/",
+    "company": "Escape Plan",
+    "location": "London, UK",
+    "latitude": "51.5074456",
+    "longitude": "-0.1277653"
+  },
+  {
+    "room": "Henry Fortune's House of Illusion",
+    "url": "https://www.escapequest.co.uk/house-of-illusion.html",
+    "company": "Escape Quest",
+    "location": "Macclesfield, UK",
+    "latitude": "53.2606635",
+    "longitude": "-2.1255158"
+  },
+  {
+    "room": "Mr Copplestone's Curiosity Shoppe",
+    "url": "https://www.escapequest.co.uk/mr-copplestones-curiosity-shoppe.html",
+    "company": "Escape Quest",
+    "location": "Macclesfield, UK",
+    "latitude": "53.2606635",
+    "longitude": "-2.1255158"
+  },
+  {
+    "room": "Percy Pendleton's Peculiar Predicament",
+    "url": "https://www.escapequest.co.uk/percy-pendletons-peculiar-predicament.html",
+    "company": "Escape Quest",
+    "location": "Macclesfield, UK",
+    "latitude": "53.2606635",
+    "longitude": "-2.1255158"
+  },
+  {
+    "room": "Titterton's Toffees",
+    "url": "https://www.escapequest.co.uk/tittertons-toffees.html",
+    "company": "Escape Quest",
+    "location": "Macclesfield, UK",
+    "latitude": "53.2606635",
+    "longitude": "-2.1255158"
+  },
+  {
+    "room": "The Pit",
+    "url": "https://www.theescapement.co.uk/escape-rooms-margate",
+    "company": "The Escapement (UK)",
+    "location": "Margate, UK",
+    "latitude": "51.3878174",
+    "longitude": "1.3819699"
+  },
+  {
+    "room": "Daylight Robbery",
+    "url": "https://cryptologyrooms.co.uk/nottingham/robbery",
+    "company": "Cryptology",
+    "location": "Nottingham, UK",
+    "latitude": "52.9534193",
+    "longitude": "-1.1496461"
+  },
+  {
+    "room": "The Great Loudini (Live Magic & Puzzles Edition)",
+    "url": "https://www.escapable.co.uk/the-rooms",
+    "company": "Escapable",
+    "location": "Wakefield, UK",
+    "latitude": "53.6829541",
+    "longitude": "-1.4967286"
+  },
+  {
+    "room": "Playground",
+    "url": "https://theescapegame.com/escape-rooms/playground/",
+    "company": "The Escape Game",
+    "location": "Irvine, CA / Orange, CA / Rancho Cucamonga, CA / San Francisco, CA / Torrance, CA / Jacksonville, FL / Orlando, FL / Tampa, FL / Atlanta, GA / Honolulu, HI / New Orleans, LA / Concord, NC / East Rutherford, NJ / Las Vegas, NV / Brooklyn, NY / New York City, NY / Cincinnati, OH / Columbus, OH / King of Prussia, PA / Nashville, TN / Austin, TX / Grapevine, TX / Houston, TX / San Antonio, TX / The Colony, TX, USA",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "room": "Ruins: Forbidden Treasure",
+    "url": "https://theescapegame.com/escape-rooms/ruins/",
+    "company": "The Escape Game",
+    "location": "Nashville, TN / Pigeon Forge, TN, USA",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "room": "Return of the Pharaohs",
+    "url": "https://paragonescape.com/pharaohs.html",
+    "company": "Paragon Escape Games",
+    "location": "Mesa, AZ, USA",
+    "latitude": "33.4151005",
+    "longitude": "-111.831455"
+  },
+  {
+    "room": "Sal's Cybernetics",
+    "url": "https://theimmersivemachine.com/games_list/",
+    "company": "The Immersive Machine",
+    "location": "Phoenix, AZ, USA",
+    "latitude": "33.4484367",
+    "longitude": "-112.074141"
+  },
+  {
+    "room": "EVIL Robots",
+    "url": "https://thenemesisclub.com/evil-robots-escape-game/",
+    "company": "The Nemesis Club",
+    "location": "Phoenix, AZ, USA",
+    "latitude": "33.4484367",
+    "longitude": "-112.074141"
+  },
+  {
+    "room": "Henchmen's Heist",
+    "url": "https://thenemesisclub.com/henchmens-heist-escape-game/",
+    "company": "The Nemesis Club",
+    "location": "Phoenix, AZ, USA",
+    "latitude": "33.4484367",
+    "longitude": "-112.074141"
+  },
+  {
+    "room": "Mogollon Monster",
+    "url": "https://thenemesisclub.com/mogollon-monster/",
+    "company": "The Nemesis Club",
+    "location": "Phoenix, AZ, USA",
+    "latitude": "33.4484367",
+    "longitude": "-112.074141"
+  },
+  {
+    "room": "The Hex Room",
+    "url": "https://crossroadsescapegames.com/the-hex-room/",
+    "company": "Cross Roads Escape Games",
+    "location": "Anaheim, CA, USA",
+    "latitude": "33.8347516",
+    "longitude": "-117.911732"
+  },
+  {
+    "room": "The Weeping Witch",
+    "url": "https://crossroadsescapegames.com/the-weeping-witch/",
+    "company": "Cross Roads Escape Games",
+    "location": "Anaheim, CA, USA",
+    "latitude": "33.8347516",
+    "longitude": "-117.911732"
+  },
+  {
+    "room": "Hope End",
+    "url": "https://www.theministryofpeculiarities.com/",
+    "company": "The Ministry of Peculiarities",
+    "location": "Azusa, CA, USA",
+    "latitude": "34.1338751",
+    "longitude": "-117.9056046"
+  },
+  {
+    "room": "Ghost Patrol",
+    "url": "https://www.triviumgames.com/ghost-patrol",
+    "company": "Trivium Games",
+    "location": "Emeryville, CA, USA",
+    "latitude": "37.8314089",
+    "longitude": "-122.2865266"
+  },
+  {
+    "room": "Chapter 3: The Morgue",
+    "url": "https://www.offthecouchgames.com/morgue",
+    "company": "Off The Couch",
+    "location": "Fremont / Santa Clara, CA, USA",
+    "latitude": "37.3540092",
+    "longitude": "-122.0347453650267"
+  },
+  {
+    "room": "Irvine School of Wizardry and the Goblin's Secrets",
+    "url": "https://hiddendonkey.com/irvine-school-of-wizardry-and-the-goblins-secrets.php",
+    "company": "Hidden Donkey",
+    "location": "Irvine, CA, USA",
+    "latitude": "33.6856969",
+    "longitude": "-117.825981"
+  },
+  {
+    "room": "Wizard's Treasure",
+    "url": "https://www.60out.com/los-angeles/escape-rooms/wizards-treasure",
+    "company": "60out Escape Rooms",
+    "location": "Los Angeles, CA, USA",
+    "latitude": "34.0536909",
+    "longitude": "-118.242766"
+  },
+  {
+    "room": "Lab Rat",
+    "url": "https://www.hatchescapes.com/lab-rat",
+    "company": "Hatch Escapes",
+    "location": "Los Angeles, CA, USA",
+    "latitude": "34.0536909",
+    "longitude": "-118.242766"
+  },
+  {
+    "room": "The Ladder",
+    "url": "https://www.hatchescapes.com/the-ladder",
+    "company": "Hatch Escapes",
+    "location": "Los Angeles, CA, USA",
+    "latitude": "34.0536909",
+    "longitude": "-118.242766"
+  },
+  {
+    "room": "The Nest",
+    "url": "https://www.hatchescapes.com/the-nest",
+    "company": "Hatch Escapes / Scout Expedition Co.",
+    "location": "Los Angeles, CA, USA",
+    "latitude": "34.0536909",
+    "longitude": "-118.242766"
+  },
+  {
+    "room": "Project Minotaur",
+    "url": "https://questroom.com/escape-rooms/project-minotaur",
+    "company": "Quest Room (US)",
+    "location": "Los Angeles, CA, USA",
+    "latitude": "34.0536909",
+    "longitude": "-118.242766"
+  },
+  {
+    "room": "Stash House",
+    "url": "https://www.stashhou.se/",
+    "company": "Stash House",
+    "location": "Los Angeles, CA, USA",
+    "latitude": "34.0536909",
+    "longitude": "-118.242766"
+  },
+  {
+    "room": "The Bridge Between",
+    "url": "https://www.questtavern.com/quests/the-bridge-between/",
+    "company": "Quest Tavern Escape Room",
+    "location": "Pomona, CA, USA",
+    "latitude": "34.0553813",
+    "longitude": "-117.7517496"
+  },
+  {
+    "room": "The Last Supper",
+    "url": "https://www.questtavern.com/quests/thelastsupper/",
+    "company": "Quest Tavern Escape Room",
+    "location": "Pomona, CA, USA",
+    "latitude": "34.0553813",
+    "longitude": "-117.7517496"
+  },
+  {
+    "room": "Headcase",
+    "url": "https://breakingpointescaperooms.com/headcase/",
+    "company": "Breaking Point Escape Rooms",
+    "location": "Rancho Cucamonga, CA, USA",
+    "latitude": "34.1033192",
+    "longitude": "-117.575173"
+  },
+  {
+    "room": "The Attraction",
+    "url": "https://palace-games.com/the-attraction/",
+    "company": "Palace Games",
+    "location": "San Francisco, CA, USA",
+    "latitude": "37.7792588",
+    "longitude": "-122.4193286"
+  },
+  {
+    "room": "The Edison Escape Room",
+    "url": "https://palace-games.com/the-edison-escape-room/",
+    "company": "Palace Games",
+    "location": "San Francisco, CA, USA",
+    "latitude": "37.7792588",
+    "longitude": "-122.4193286"
+  },
+  {
+    "room": "The Great Houdini Escape Room",
+    "url": "https://palace-games.com/the-great-houdini-escape-room/",
+    "company": "Palace Games",
+    "location": "San Francisco, CA, USA",
+    "latitude": "37.7792588",
+    "longitude": "-122.4193286"
+  },
+  {
+    "room": "Treasure Island",
+    "url": "https://braingamesescaperoom.com/treasureisland/",
+    "company": "Brain Games",
+    "location": "San Pedro, CA, USA",
+    "latitude": "33.7358518",
+    "longitude": "-118.2922934"
+  },
+  {
+    "room": "Twenty Ghosts",
+    "url": "https://braingamesescaperoom.com/twenty-ghosts/",
+    "company": "Brain Games",
+    "location": "San Pedro, CA, USA",
+    "latitude": "33.7358518",
+    "longitude": "-118.2922934"
+  },
+  {
+    "room": "The Ghost of Mentryville",
+    "url": "https://www.arcaneescaperooms.com",
+    "company": "Arcane Escape Rooms",
+    "location": "Santa Clarita, CA, USA",
+    "latitude": "34.4127963",
+    "longitude": "-118.5538088"
+  },
+  {
+    "room": "Haunting at Haruka High",
+    "url": "https://omescape.us/sunnyvale/escape-games/",
+    "company": "Omescape",
+    "location": "Sunnyvale, CA, USA",
+    "latitude": "37.3688301",
+    "longitude": "-122.036349"
+  },
+  {
+    "room": "Robotopia",
+    "url": "https://omescape.us/sunnyvale/escape-games/",
+    "company": "Omescape",
+    "location": "Sunnyvale, CA, USA",
+    "latitude": "37.3688301",
+    "longitude": "-122.036349"
+  },
+  {
+    "room": "Undercooked",
+    "url": "https://omescape.us/sunnyvale/escape-games/",
+    "company": "Omescape",
+    "location": "Sunnyvale, CA, USA",
+    "latitude": "37.3688301",
+    "longitude": "-122.036349"
+  },
+  {
+    "room": "40 Thieves",
+    "url": "https://mindtrapescaperoom.com/40-thieves/",
+    "company": "MindTrap Escape Room (California)",
+    "location": "Temecula, CA, USA",
+    "latitude": "33.4946353",
+    "longitude": "-117.147366"
+  },
+  {
+    "room": "Frost Base Z",
+    "url": "https://rabbithole.rs/frost-base-z.html",
+    "company": "Rabbit Hole Recreation Services",
+    "location": "Louisville, CO, USA",
+    "latitude": "38.2542376",
+    "longitude": "-85.759407"
+  },
+  {
+    "room": "Ruins of the Mystic Temple",
+    "url": "https://rabbithole.rs/Mystic-Temple-Escape-Room.html",
+    "company": "Rabbit Hole Recreation Services",
+    "location": "Louisville, CO, USA",
+    "latitude": "38.2542376",
+    "longitude": "-85.759407"
+  },
+  {
+    "room": "Pins & Needles Tattoo Parlor",
+    "url": "https://www.theexitgamesfl.com/pinsandneedles",
+    "company": "The Exit Games",
+    "location": "Clearwater, FL, USA",
+    "latitude": "27.9658533",
+    "longitude": "-82.8001026"
+  },
+  {
+    "room": "Servants of Sleight",
+    "url": "https://www.theexitgamesfl.com/servantsofsleight",
+    "company": "The Exit Games",
+    "location": "Clearwater, FL, USA",
+    "latitude": "27.9658533",
+    "longitude": "-82.8001026"
+  },
+  {
+    "room": "Captain Spoopy Bones and the Magnificent Quest For Some Other Pirate's Treasure",
+    "url": "https://www.doldricksescaperoom.com/games/captainspoopybones/",
+    "company": "Doldrick's Escape Room",
+    "location": "Kissimmee, FL, USA",
+    "latitude": "28.2918995",
+    "longitude": "-81.4075838"
+  },
+  {
+    "room": "Crazy Train: The Ballad of Skeemin' Plotz",
+    "url": "https://www.doldricksescaperoom.com/games/crazytrain/",
+    "company": "Doldrick's Escape Room",
+    "location": "Kissimmee, FL, USA",
+    "latitude": "28.2918995",
+    "longitude": "-81.4075838"
+  },
+  {
+    "room": "Bros for Life: Fraternity Heist",
+    "url": "https://theescapeventures.com/services/bros-for-life-fraternity-heist/",
+    "company": "The Escape Ventures",
+    "location": "Orlando, FL, USA",
+    "latitude": "28.5421109",
+    "longitude": "-81.3790304"
+  },
+  {
+    "room": "Neighborhood Watcher",
+    "url": "https://theescapeventures.com/escape-rooms/neighborhood-watcher/",
+    "company": "The Escape Ventures",
+    "location": "Orlando, FL, USA",
+    "latitude": "28.5421109",
+    "longitude": "-81.3790304"
+  },
+  {
+    "room": "Operation Arctic Storm: The Final Meltdown",
+    "url": "https://theescapeventures.com/escape-rooms/operation-arctic-storm-the-final-meltdown/",
+    "company": "The Escape Ventures",
+    "location": "Orlando, FL, USA",
+    "latitude": "28.5421109",
+    "longitude": "-81.3790304"
+  },
+  {
+    "room": "Click 'N Glitch",
+    "url": "https://theescapeventures.com/escape-rooms/click-n-glitch/",
+    "company": "The Escape Ventures",
+    "location": "Port Charlotte, FL, USA",
+    "latitude": "26.982419999999998",
+    "longitude": "-82.10688734598534"
+  },
+  {
+    "room": "Phantom Files: The Investigation of Lockturne Manor",
+    "url": "https://theescapeventures.com/escape-rooms/phantom-files/",
+    "company": "The Escape Ventures",
+    "location": "Port Charlotte, FL, USA",
+    "latitude": "26.982419999999998",
+    "longitude": "-82.10688734598534"
+  },
+  {
+    "room": "Mafia Heist",
+    "url": "https://mindtrapescaperooms.com/",
+    "company": "Mind Trap Escape Rooms (Illinois)",
+    "location": "Montgomery, IL, USA",
+    "latitude": "39.2052633",
+    "longitude": "-89.5057126"
+  },
+  {
+    "room": "Cutthroat Cavern",
+    "url": "https://13thgateescape.com/index.php/cutthroat-cavern/",
+    "company": "13th Gate Escape",
+    "location": "Baton Rouge, LA, USA",
+    "latitude": "30.4494155",
+    "longitude": "-91.1869659"
+  },
+  {
+    "room": "Spellbound",
+    "url": "https://13thgateescape.com/index.php/spellbound/",
+    "company": "13th Gate Escape",
+    "location": "Baton Rouge, LA, USA",
+    "latitude": "30.4494155",
+    "longitude": "-91.1869659"
+  },
+  {
+    "room": "The Asylum",
+    "url": "https://13thgateescape.com/index.php/the-asylum/",
+    "company": "13th Gate Escape",
+    "location": "Baton Rouge, LA, USA",
+    "latitude": "30.4494155",
+    "longitude": "-91.1869659"
+  },
+  {
+    "room": "Tomb of Anubis",
+    "url": "https://13thgateescape.com/index.php/tomb-of-anubis/",
+    "company": "13th Gate Escape",
+    "location": "Baton Rouge, LA, USA",
+    "latitude": "30.4494155",
+    "longitude": "-91.1869659"
+  },
+  {
+    "room": "Hide & Seek",
+    "url": "https://www.theescapewarehouse.com/hideandseek",
+    "company": "The Escape Warehouse",
+    "location": "Ponchatoula, LA, USA",
+    "latitude": "30.4388041",
+    "longitude": "-90.4414762"
+  },
+  {
+    "room": "The Storyteller's Secret",
+    "url": "https://boxaroo.me/storyteller",
+    "company": "Boxaroo",
+    "location": "Boston, MA, USA",
+    "latitude": "42.3554334",
+    "longitude": "-71.060511"
+  },
+  {
+    "room": "The Body Shop",
+    "url": "https://redfoxescapes.com/rooms/the-body-shop-escape-room-boston-cambridge/",
+    "company": "Red Fox Escapes",
+    "location": "Cambridge, MA, USA",
+    "latitude": "42.3656347",
+    "longitude": "-71.1040018"
+  },
+  {
+    "room": "The Campground",
+    "url": "https://13thhourescape.com/escape-rooms/",
+    "company": "13th Hour Escape Rooms",
+    "location": "Wharton, NJ, USA",
+    "latitude": "40.8931546",
+    "longitude": "-74.5818254"
+  },
+  {
+    "room": "The Grand Parlor",
+    "url": "https://13thhourescape.com/escape-rooms/",
+    "company": "13th Hour Escape Rooms",
+    "location": "Wharton, NJ, USA",
+    "latitude": "40.8931546",
+    "longitude": "-74.5818254"
+  },
+  {
+    "room": "The Wonderful Wizard of Oz",
+    "url": "https://13thhourescape.com/escape-rooms/",
+    "company": "13th Hour Escape Rooms",
+    "location": "Wharton, NJ, USA",
+    "latitude": "40.8931546",
+    "longitude": "-74.5818254"
+  },
+  {
+    "room": "Ghost Light",
+    "url": "https://www.myssticrooms.com/rooms/ghost-light/",
+    "company": "MyssTic Rooms",
+    "location": "Brooklyn, NY, USA",
+    "latitude": "40.6526006",
+    "longitude": "-73.9497211"
+  },
+  {
+    "room": "Operation Gryaznayavoda",
+    "url": "https://www.insearchofanexit.com/",
+    "company": "In Search Of An Exit",
+    "location": "Portland, OR, USA",
+    "latitude": "45.5202471",
+    "longitude": "-122.674194"
+  },
+  {
+    "room": "Castle Fl\u00fcffendor",
+    "url": "https://escapeartistgreenville.com/adventures/castle-fluffendor/",
+    "company": "Escape Artist Greenville",
+    "location": "Greenville, SC, USA",
+    "latitude": "34.851354",
+    "longitude": "-82.3984882"
+  },
+  {
+    "room": "Dark Lullaby",
+    "url": "https://www.escapeartistgreenville.com/dark-lullaby-escape-room",
+    "company": "Escape Artist Greenville",
+    "location": "Greenville, SC, USA",
+    "latitude": "34.851354",
+    "longitude": "-82.3984882"
+  },
+  {
+    "room": "Help Wanted",
+    "url": "https://www.escapeartistgreenville.com/help-wanted-escape-room",
+    "company": "Escape Artist Greenville",
+    "location": "Greenville, SC, USA",
+    "latitude": "34.851354",
+    "longitude": "-82.3984882"
+  },
+  {
+    "room": "The Starlight Motel",
+    "url": "https://www.escapeartistgreenville.com/the-starlight-motel",
+    "company": "Escape Artist Greenville",
+    "location": "Greenville, SC, USA",
+    "latitude": "34.851354",
+    "longitude": "-82.3984882"
+  },
+  {
+    "room": "Mr. Wong's Restaurant",
+    "url": "https://perfectescaperoom.com/",
+    "company": "The Perfect Escape",
+    "location": "Arlington, TX, USA",
+    "latitude": "32.7355816",
+    "longitude": "-97.1071186"
+  },
+  {
+    "room": "The Man from Beyond",
+    "url": "https://strangebirdimmersive.com/",
+    "company": "Strange Bird Immersive",
+    "location": "Houston, TX, USA",
+    "latitude": "29.7589382",
+    "longitude": "-95.3676974"
+  },
+  {
+    "room": "The Chesapeake Bay Butcher",
+    "url": "https://www.colonialescape.com/",
+    "company": "Colonial Escape Room",
+    "location": "Williamsburg, VA, USA",
+    "latitude": "37.2708788",
+    "longitude": "-76.7074042"
+  },
+  {
+    "room": "The Storykeeper",
+    "url": "https://www.locurio.com/the-storykeeper/",
+    "company": "Locurio",
+    "location": "Seattle, WA, USA",
+    "latitude": "47.6038321",
+    "longitude": "-122.330062"
+  }
+]

@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TERPECA Finalist Room Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.6.0/Control.FullScreen.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #1e40af;
+            --text-primary: #1f2937;
+            --text-secondary: #4b5563;
+            --background: #ffffff;
+            --background-alt: #f3f4f6;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--background-alt);
+            color: var(--text-primary);
+            line-height: 1.5;
+        }
+
+        .header {
+            background-color: var(--background);
+            padding: 1.5rem 0;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin: 0;
+            text-align: center;
+        }
+
+        .map-container {
+            background-color: var(--background);
+            border-radius: 1rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            overflow: hidden;
+            margin-bottom: 2rem;
+        }
+
+        #map {
+            height: 700px;
+            width: 100%;
+        }
+
+        /* Fullscreen styles */
+        .leaflet-container.leaflet-fullscreen-on {
+            height: 100vh !important;
+            width: 100vw !important;
+        }
+
+        .map-container.fullscreen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 9999;
+            margin: 0;
+            border-radius: 0;
+        }
+
+        .popup-content {
+            font-size: 0.875rem;
+            padding: 0.5rem;
+        }
+
+        .popup-content strong {
+            display: block;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+        }
+
+        .popup-content p {
+            margin: 0.25rem 0;
+            color: var(--text-secondary);
+        }
+
+        .marker-cluster-small {
+            background-color: rgba(37, 99, 235, 0.2);
+        }
+
+        .marker-cluster-small div {
+            background-color: rgba(37, 99, 235, 0.4);
+        }
+
+        .marker-cluster-medium {
+            background-color: rgba(37, 99, 235, 0.3);
+        }
+
+        .marker-cluster-medium div {
+            background-color: rgba(37, 99, 235, 0.5);
+        }
+
+        .marker-cluster-large {
+            background-color: rgba(37, 99, 235, 0.4);
+        }
+
+        .marker-cluster-large div {
+            background-color: rgba(37, 99, 235, 0.6);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 1rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            #map {
+                height: 500px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>TERPECA Finalist Room Map</h1>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.6.0/Control.FullScreen.js"></script>
+
+    <script>
+        async function loadJSONData() {
+            try {
+                const response = await fetch('/data/rooms_with_coordinates.json');
+                const data = await response.json();
+                return data;
+            } catch (error) {
+                console.error('Error loading JSON data:', error);
+                return [];
+            }
+        }
+
+        async function initializeMap() {
+            const map = L.map('map', {
+                zoomControl: false,
+                minZoom: 2,
+                fullscreenControl: true,
+                fullscreenControlOptions: {
+                    position: 'topright',
+                    title: 'Toggle fullscreen',
+                    forceSeparateButton: true
+                }
+            }).setView([51.8344172, 10.7862526], 7);
+
+            // Move zoom control to right side
+            L.control.zoom({
+                position: 'topright'
+            }).addTo(map);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                className: 'map-tiles'
+            }).addTo(map);
+
+            const rooms = await loadJSONData();
+            const markers = L.markerClusterGroup({
+                maxClusterRadius: 50,
+                spiderfyOnMaxZoom: true,
+                showCoverageOnHover: false,
+                zoomToBoundsOnClick: true
+            });
+
+            rooms.forEach(room => {
+                const latitude = parseFloat(room.latitude);
+                const longitude = parseFloat(room.longitude);
+
+                if (!isNaN(latitude) && !isNaN(longitude)) {
+                    const marker = L.marker([latitude, longitude]);
+                    marker.bindPopup(`
+                        <div class="popup-content">
+                            <strong><a href="${room.url}" target="_blank" rel="noopener noreferrer">${room.room}</a></strong>
+                            <p><span style="font-weight: 500;">Company:</span> ${room.company}</p>
+                            <p><span style="font-weight: 500;">Location:</span> ${room.location}</p>
+                        </div>
+                    `, {
+                        maxWidth: 300
+                    });
+                    markers.addLayer(marker);
+                }
+            });
+
+            map.addLayer(markers);
+
+            // Handle fullscreen changes
+            map.on('fullscreenchange', function () {
+                const mapContainer = document.querySelector('.map-container');
+                if (map.isFullscreen()) {
+                    mapContainer.classList.add('fullscreen');
+                } else {
+                    mapContainer.classList.remove('fullscreen');
+                }
+            });
+
+            setTimeout(() => {
+                map.fitBounds(markers.getBounds(), {
+                    padding: [50, 50]
+                });
+            }, 100);
+        }
+
+        document.addEventListener('DOMContentLoaded', initializeMap);
+    </script>
+</body>
+</html>
